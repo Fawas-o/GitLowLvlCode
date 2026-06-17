@@ -1,6 +1,10 @@
 #to have ai complete code do ctrl + shift + P then go to Copilot: Toggle Inline Suggestions
+
 #didn't actually use ai though because i actually want to learn
+
 #need to seperate them so that each file has a specific topic, basically like folders
+
+#lockin rn🤓🧠
 '''
 # while True:
 #     try:
