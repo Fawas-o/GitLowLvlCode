@@ -332,7 +332,7 @@ hello
 #print(dir(collection name)) tells you the different functions availible to a collection
 #print(help(collection name)) gives description of all methods and attributes
 
-# colours = ["vanilla", "caramel", "white", "vanilla"]
+# colours = ["black", "grey", "white", "navy"]
 # no = "tomato"
 # i = 0
 
@@ -347,7 +347,7 @@ hello
 # 	print(colour)
 
 # colours.remove("white")
-# colours.insert(2, "cloudy")
+# colours.insert(2, "grey")
 #colours.sort()
 #colours.reverse
 # colours.clear()
@@ -356,8 +356,8 @@ hello
 # for colour in colours:
 # 	print(colour)
 
-# print(colours.index("caramel"))
-# print(colours.count("vanilla"))
+# print(colours.index("black"))
+# print(colours.count("white"))
 # revo = list(reversed(colours))
 # while i < len(revo):
 # 	print(str(revo[i]))
