@@ -1,0 +1,1123 @@
+Patient,TP53Cluster,EGFRCluster,CDKN2ACluster,KRAS G12C Cluster,EML4-ALKCluster,histological_type,neoplasm_histologic_grade,tumor_tissue_site,laterality,tumor_location,gender,age_at_initial_pathologic,race,ethnicity,death01
+LNG001,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G1,"Lung, lower lobe",Right,Central,Female,84,White,Not Hispanic or Latino,0
+LNG002,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, lower lobe",Right,Hilar,Male,66,Asian,Hispanic or Latino,1
+LNG003,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G4,"Lung, upper lobe",Right,Peripheral,Male,47,Asian,Not Hispanic or Latino,0
+LNG004,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G4,Main bronchus,Left,Peripheral,Female,42,Black or African American,Not Hispanic or Latino,0
+LNG005,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G1,"Lung, lower lobe",Right,Peripheral,Male,68,Other,Not Hispanic or Latino,0
+LNG006,TP53_3,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G4,"Lung, lower lobe",Right,Peripheral,Male,66,Black or African American,Not Hispanic or Latino,0
+LNG007,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G1,Main bronchus,Left,Central,Male,70,Asian,Not Hispanic or Latino,1
+LNG008,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G2,Main bronchus,Right,Peripheral,Male,51,Asian,Not Hispanic or Latino,1
+LNG009,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G2,"Lung, lower lobe",Right,Central,Female,67,White,Hispanic or Latino,0
+LNG010,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, upper lobe",Right,Hilar,Male,55,Other,Not Hispanic or Latino,1
+LNG011,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, upper lobe",Right,Peripheral,Male,67,White,Not Hispanic or Latino,0
+LNG012,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, lower lobe",Right,Peripheral,Male,71,White,Hispanic or Latino,1
+LNG013,TP53_3,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G1,"Lung, lower lobe",Right,Peripheral,Male,55,Asian,Not Hispanic or Latino,0
+LNG014,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G1,Main bronchus,Right,Peripheral,Female,47,Other,Not Hispanic or Latino,1
+LNG015,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Male,55,Asian,Hispanic or Latino,1
+LNG016,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Male,81,Other,Not Hispanic or Latino,0
+LNG017,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, lower lobe",Right,Hilar,Female,65,Black or African American,Not Hispanic or Latino,1
+LNG018,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G4,"Lung, upper lobe",Right,Hilar,Female,42,White,Hispanic or Latino,1
+LNG019,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G1,Main bronchus,Left,Hilar,Male,41,Black or African American,Hispanic or Latino,0
+LNG020,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G1,"Lung, lower lobe",Left,Hilar,Female,75,Asian,Hispanic or Latino,0
+LNG021,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, middle lobe",Left,Peripheral,Female,51,White,Hispanic or Latino,1
+LNG022,TP53_1,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G2,Main bronchus,Right,Hilar,Female,44,Other,Not Hispanic or Latino,0
+LNG023,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G2,Main bronchus,Right,Hilar,Female,43,White,Hispanic or Latino,0
+LNG024,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Male,44,Asian,Hispanic or Latino,0
+LNG025,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G1,Main bronchus,Left,Peripheral,Female,81,Asian,Not Hispanic or Latino,0
+LNG026,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G1,"Lung, lower lobe",Left,Central,Male,39,White,Hispanic or Latino,0
+LNG027,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G3,Main bronchus,Left,Peripheral,Female,81,Other,Not Hispanic or Latino,1
+LNG028,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, lower lobe",Right,Hilar,Male,76,White,Not Hispanic or Latino,0
+LNG029,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, upper lobe",Left,Central,Male,39,White,Hispanic or Latino,1
+LNG030,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, lower lobe",Right,Hilar,Female,38,Other,Not Hispanic or Latino,0
+LNG031,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G3,"Lung, lower lobe",Left,Peripheral,Male,50,Other,Hispanic or Latino,1
+LNG032,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G3,Main bronchus,Right,Peripheral,Male,44,Black or African American,Hispanic or Latino,0
+LNG033,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G2,Main bronchus,Left,Central,Female,36,Black or African American,Not Hispanic or Latino,0
+LNG034,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G4,"Lung, lower lobe",Left,Central,Male,52,Other,Hispanic or Latino,0
+LNG035,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Central,Female,69,Other,Hispanic or Latino,0
+LNG036,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G2,Main bronchus,Right,Peripheral,Female,40,Other,Hispanic or Latino,1
+LNG037,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G1,"Lung, lower lobe",Right,Peripheral,Male,74,Asian,Not Hispanic or Latino,1
+LNG038,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G4,Main bronchus,Right,Peripheral,Female,70,Asian,Hispanic or Latino,1
+LNG039,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G1,Main bronchus,Left,Central,Male,84,Other,Hispanic or Latino,0
+LNG040,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G1,Main bronchus,Left,Central,Male,82,White,Hispanic or Latino,0
+LNG041,TP53_4,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G3,Main bronchus,Right,Peripheral,Female,65,Asian,Hispanic or Latino,1
+LNG042,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G2,"Lung, middle lobe",Left,Peripheral,Female,44,Asian,Hispanic or Latino,0
+LNG043,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G2,"Lung, upper lobe",Right,Central,Female,81,White,Hispanic or Latino,0
+LNG044,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G1,Main bronchus,Left,Central,Male,41,Asian,Hispanic or Latino,0
+LNG045,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G4,"Lung, upper lobe",Right,Hilar,Male,66,Other,Not Hispanic or Latino,0
+LNG046,TP53_3,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, lower lobe",Right,Hilar,Male,79,Black or African American,Hispanic or Latino,0
+LNG047,TP53_5,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, upper lobe",Left,Hilar,Male,41,Black or African American,Hispanic or Latino,0
+LNG048,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G2,"Lung, lower lobe",Right,Hilar,Male,75,Asian,Not Hispanic or Latino,1
+LNG049,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, lower lobe",Left,Peripheral,Female,49,Other,Not Hispanic or Latino,1
+LNG050,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Central,Male,69,Asian,Hispanic or Latino,0
+LNG051,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G2,Main bronchus,Left,Peripheral,Female,38,Asian,Not Hispanic or Latino,1
+LNG052,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G4,Main bronchus,Right,Central,Male,79,Asian,Not Hispanic or Latino,1
+LNG053,TP53_2,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G2,"Lung, upper lobe",Right,Peripheral,Female,39,White,Not Hispanic or Latino,1
+LNG054,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,Main bronchus,Right,Peripheral,Male,38,Asian,Hispanic or Latino,0
+LNG055,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G3,"Lung, middle lobe",Left,Central,Female,79,Black or African American,Hispanic or Latino,0
+LNG056,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,83,Other,Not Hispanic or Latino,1
+LNG057,TP53_3,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, upper lobe",Right,Hilar,Female,61,Asian,Not Hispanic or Latino,1
+LNG058,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G1,"Lung, lower lobe",Left,Hilar,Female,42,White,Hispanic or Latino,1
+LNG059,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G3,Main bronchus,Left,Central,Female,38,Other,Not Hispanic or Latino,1
+LNG060,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G4,"Lung, middle lobe",Right,Peripheral,Female,37,Black or African American,Hispanic or Latino,0
+LNG061,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, middle lobe",Left,Hilar,Male,45,White,Not Hispanic or Latino,0
+LNG062,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, middle lobe",Left,Hilar,Female,69,White,Not Hispanic or Latino,0
+LNG063,TP53_3,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, upper lobe",Left,Central,Male,60,Asian,Hispanic or Latino,1
+LNG064,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G3,"Lung, middle lobe",Left,Peripheral,Female,64,Other,Hispanic or Latino,1
+LNG065,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G3,"Lung, lower lobe",Left,Central,Male,40,White,Not Hispanic or Latino,0
+LNG066,TP53_2,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G3,"Lung, middle lobe",Left,Central,Female,69,White,Hispanic or Latino,0
+LNG067,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G2,Main bronchus,Right,Hilar,Female,40,Asian,Hispanic or Latino,0
+LNG068,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G1,Main bronchus,Right,Peripheral,Male,44,Other,Not Hispanic or Latino,0
+LNG069,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G4,"Lung, lower lobe",Left,Central,Female,58,Asian,Hispanic or Latino,1
+LNG070,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G3,"Lung, upper lobe",Right,Peripheral,Female,80,Asian,Hispanic or Latino,0
+LNG071,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G1,"Lung, lower lobe",Right,Hilar,Female,70,Other,Hispanic or Latino,0
+LNG072,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, lower lobe",Right,Hilar,Male,45,Other,Not Hispanic or Latino,0
+LNG073,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G4,Main bronchus,Right,Peripheral,Female,62,White,Hispanic or Latino,1
+LNG074,TP53_2,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G2,"Lung, lower lobe",Left,Central,Female,82,Asian,Not Hispanic or Latino,0
+LNG075,TP53_3,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G1,Main bronchus,Left,Hilar,Female,68,Other,Not Hispanic or Latino,0
+LNG076,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G3,Main bronchus,Right,Peripheral,Male,77,Other,Hispanic or Latino,1
+LNG077,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G4,"Lung, upper lobe",Left,Peripheral,Female,79,White,Hispanic or Latino,0
+LNG078,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G4,"Lung, upper lobe",Left,Central,Male,82,Other,Hispanic or Latino,1
+LNG079,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G1,Main bronchus,Left,Hilar,Female,40,White,Not Hispanic or Latino,1
+LNG080,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, lower lobe",Left,Central,Female,43,Black or African American,Hispanic or Latino,0
+LNG081,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G1,"Lung, middle lobe",Left,Central,Female,70,White,Not Hispanic or Latino,0
+LNG082,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G4,Main bronchus,Left,Hilar,Female,74,Asian,Hispanic or Latino,0
+LNG083,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G3,Main bronchus,Left,Central,Female,85,White,Hispanic or Latino,0
+LNG084,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G3,"Lung, lower lobe",Left,Central,Male,73,White,Not Hispanic or Latino,0
+LNG085,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G4,"Lung, middle lobe",Left,Central,Male,69,Black or African American,Not Hispanic or Latino,1
+LNG086,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, lower lobe",Left,Hilar,Male,49,Asian,Not Hispanic or Latino,0
+LNG087,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G1,"Lung, middle lobe",Right,Central,Male,63,Other,Hispanic or Latino,1
+LNG088,TP53_3,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G1,"Lung, middle lobe",Right,Hilar,Female,43,Black or African American,Not Hispanic or Latino,0
+LNG089,TP53_3,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G2,"Lung, upper lobe",Right,Peripheral,Male,77,Black or African American,Hispanic or Latino,0
+LNG090,TP53_3,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G1,"Lung, lower lobe",Right,Peripheral,Female,37,White,Not Hispanic or Latino,1
+LNG091,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G4,"Lung, upper lobe",Left,Hilar,Female,78,Black or African American,Hispanic or Latino,0
+LNG092,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,Main bronchus,Right,Central,Male,80,White,Hispanic or Latino,1
+LNG093,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G2,"Lung, lower lobe",Left,Peripheral,Female,42,Asian,Hispanic or Latino,0
+LNG094,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G2,Main bronchus,Right,Peripheral,Female,63,Other,Hispanic or Latino,1
+LNG095,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Male,46,Other,Not Hispanic or Latino,1
+LNG096,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,57,White,Hispanic or Latino,0
+LNG097,TP53_4,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,"Lung, middle lobe",Right,Peripheral,Female,83,White,Not Hispanic or Latino,0
+LNG098,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G1,"Lung, lower lobe",Left,Peripheral,Female,84,Asian,Not Hispanic or Latino,0
+LNG099,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G4,Main bronchus,Left,Peripheral,Male,77,Asian,Not Hispanic or Latino,1
+LNG100,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, upper lobe",Right,Central,Male,59,Black or African American,Not Hispanic or Latino,1
+LNG1000,TP53_3,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G2,"Lung, lower lobe",Right,Peripheral,Female,59,Black or African American,Not Hispanic or Latino,1
+LNG1001,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G2,"Lung, lower lobe",Left,Peripheral,Male,65,White,Not Hispanic or Latino,1
+LNG1002,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G1,"Lung, upper lobe",Left,Central,Female,36,Asian,Not Hispanic or Latino,1
+LNG1003,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G2,"Lung, upper lobe",Left,Hilar,Female,36,White,Hispanic or Latino,0
+LNG1004,TP53_1,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G2,Main bronchus,Left,Hilar,Male,46,Black or African American,Not Hispanic or Latino,1
+LNG1005,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G1,"Lung, middle lobe",Right,Hilar,Female,78,Black or African American,Hispanic or Latino,0
+LNG1006,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,52,Other,Hispanic or Latino,0
+LNG1007,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Peripheral,Male,79,White,Hispanic or Latino,0
+LNG1008,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G4,"Lung, upper lobe",Left,Hilar,Male,67,Black or African American,Hispanic or Latino,0
+LNG1009,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,39,Asian,Not Hispanic or Latino,1
+LNG101,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,79,White,Hispanic or Latino,1
+LNG1010,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G4,"Lung, upper lobe",Right,Central,Female,77,Black or African American,Not Hispanic or Latino,0
+LNG1011,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Peripheral,Female,82,Other,Hispanic or Latino,1
+LNG1012,TP53_1,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G1,"Lung, middle lobe",Right,Peripheral,Male,60,Black or African American,Not Hispanic or Latino,0
+LNG1013,TP53_2,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G1,"Lung, lower lobe",Right,Central,Male,58,Other,Not Hispanic or Latino,1
+LNG1014,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G2,"Lung, middle lobe",Left,Peripheral,Male,58,Black or African American,Not Hispanic or Latino,0
+LNG1015,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, lower lobe",Left,Hilar,Male,54,Black or African American,Hispanic or Latino,1
+LNG1016,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G4,Main bronchus,Right,Peripheral,Male,79,Other,Hispanic or Latino,0
+LNG1017,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G3,"Lung, upper lobe",Right,Central,Female,40,Asian,Hispanic or Latino,1
+LNG1018,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, middle lobe",Left,Hilar,Female,38,White,Not Hispanic or Latino,0
+LNG1019,TP53_5,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Male,42,White,Not Hispanic or Latino,1
+LNG102,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G1,"Lung, upper lobe",Left,Hilar,Male,35,Black or African American,Not Hispanic or Latino,1
+LNG1020,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,71,Other,Hispanic or Latino,1
+LNG1021,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, middle lobe",Left,Hilar,Female,48,Asian,Not Hispanic or Latino,1
+LNG1022,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G4,"Lung, upper lobe",Left,Peripheral,Female,57,Other,Not Hispanic or Latino,0
+LNG1023,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G2,"Lung, upper lobe",Left,Peripheral,Female,47,White,Not Hispanic or Latino,0
+LNG1024,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G3,Main bronchus,Right,Central,Female,44,Other,Hispanic or Latino,1
+LNG1025,TP53_5,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, upper lobe",Right,Peripheral,Female,64,Asian,Hispanic or Latino,0
+LNG1026,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, middle lobe",Right,Peripheral,Female,55,Other,Not Hispanic or Latino,1
+LNG1027,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, lower lobe",Left,Hilar,Male,35,Asian,Not Hispanic or Latino,0
+LNG1028,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G3,"Lung, lower lobe",Right,Central,Male,56,Asian,Hispanic or Latino,0
+LNG1029,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, middle lobe",Left,Central,Female,54,White,Hispanic or Latino,0
+LNG103,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Hilar,Female,51,Asian,Hispanic or Latino,0
+LNG1030,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, upper lobe",Right,Peripheral,Male,85,Other,Not Hispanic or Latino,0
+LNG1031,TP53_3,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,71,Other,Hispanic or Latino,0
+LNG1032,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G3,Main bronchus,Left,Peripheral,Female,67,Black or African American,Hispanic or Latino,0
+LNG1033,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G3,"Lung, lower lobe",Right,Peripheral,Female,42,White,Hispanic or Latino,0
+LNG1034,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G1,Main bronchus,Left,Hilar,Female,38,Black or African American,Hispanic or Latino,1
+LNG1035,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G1,"Lung, lower lobe",Right,Hilar,Male,79,Other,Not Hispanic or Latino,1
+LNG1036,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Male,77,Other,Not Hispanic or Latino,0
+LNG1037,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Hilar,Female,68,Other,Hispanic or Latino,1
+LNG1038,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, middle lobe",Left,Hilar,Female,52,Other,Hispanic or Latino,0
+LNG1039,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G4,"Lung, lower lobe",Left,Central,Female,84,White,Hispanic or Latino,0
+LNG104,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G2,"Lung, middle lobe",Right,Central,Female,58,Black or African American,Not Hispanic or Latino,1
+LNG1040,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G2,Main bronchus,Left,Hilar,Female,65,White,Not Hispanic or Latino,1
+LNG1041,TP53_3,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G4,Main bronchus,Right,Central,Female,54,Other,Not Hispanic or Latino,0
+LNG1042,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G4,"Lung, upper lobe",Right,Hilar,Male,47,White,Hispanic or Latino,1
+LNG1043,TP53_5,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G1,"Lung, middle lobe",Right,Hilar,Female,54,Asian,Hispanic or Latino,0
+LNG1044,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G2,"Lung, middle lobe",Left,Hilar,Male,73,Asian,Hispanic or Latino,0
+LNG1045,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G4,Main bronchus,Left,Hilar,Male,45,Black or African American,Hispanic or Latino,1
+LNG1046,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G2,"Lung, middle lobe",Left,Hilar,Male,66,Asian,Hispanic or Latino,1
+LNG1047,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G2,"Lung, middle lobe",Right,Hilar,Female,75,Black or African American,Not Hispanic or Latino,1
+LNG1048,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G4,"Lung, upper lobe",Right,Hilar,Female,35,Asian,Not Hispanic or Latino,1
+LNG1049,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G4,Main bronchus,Right,Hilar,Female,48,White,Hispanic or Latino,1
+LNG105,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G3,Main bronchus,Left,Central,Male,63,Other,Hispanic or Latino,0
+LNG1050,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G1,"Lung, upper lobe",Right,Peripheral,Female,41,Black or African American,Hispanic or Latino,0
+LNG1051,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G2,Main bronchus,Right,Peripheral,Male,37,Asian,Not Hispanic or Latino,0
+LNG1052,TP53_5,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, lower lobe",Right,Peripheral,Female,67,Other,Not Hispanic or Latino,1
+LNG1053,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G1,"Lung, middle lobe",Right,Peripheral,Female,70,Black or African American,Hispanic or Latino,1
+LNG1054,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G3,Main bronchus,Right,Peripheral,Male,68,Black or African American,Not Hispanic or Latino,0
+LNG1055,TP53_4,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Hilar,Female,39,White,Hispanic or Latino,0
+LNG1056,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G2,"Lung, middle lobe",Right,Central,Female,64,Other,Not Hispanic or Latino,1
+LNG1057,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G1,"Lung, lower lobe",Left,Central,Male,38,White,Not Hispanic or Latino,0
+LNG1058,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G3,"Lung, middle lobe",Left,Peripheral,Male,59,Black or African American,Not Hispanic or Latino,0
+LNG1059,TP53_3,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G4,"Lung, middle lobe",Right,Hilar,Male,83,White,Not Hispanic or Latino,0
+LNG106,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G2,"Lung, upper lobe",Right,Hilar,Female,82,White,Not Hispanic or Latino,1
+LNG1060,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G3,"Lung, middle lobe",Left,Peripheral,Male,79,Black or African American,Hispanic or Latino,0
+LNG1061,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G3,"Lung, upper lobe",Right,Central,Male,50,Black or African American,Not Hispanic or Latino,1
+LNG1062,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G1,"Lung, middle lobe",Left,Peripheral,Female,66,Other,Not Hispanic or Latino,0
+LNG1063,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G4,"Lung, middle lobe",Right,Peripheral,Female,84,Asian,Not Hispanic or Latino,0
+LNG1064,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G4,"Lung, lower lobe",Left,Hilar,Male,46,White,Not Hispanic or Latino,1
+LNG1065,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,Main bronchus,Right,Central,Female,85,Other,Hispanic or Latino,1
+LNG1066,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, lower lobe",Right,Peripheral,Male,57,Asian,Not Hispanic or Latino,1
+LNG1067,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G4,"Lung, upper lobe",Left,Central,Female,84,White,Not Hispanic or Latino,0
+LNG1068,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G4,"Lung, upper lobe",Right,Peripheral,Male,79,Other,Hispanic or Latino,1
+LNG1069,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, upper lobe",Left,Peripheral,Female,56,Asian,Hispanic or Latino,1
+LNG107,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G1,Main bronchus,Left,Hilar,Female,75,Other,Not Hispanic or Latino,0
+LNG1070,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G3,"Lung, lower lobe",Right,Hilar,Male,54,Asian,Not Hispanic or Latino,0
+LNG1071,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, lower lobe",Right,Central,Male,75,White,Hispanic or Latino,0
+LNG1072,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G3,Main bronchus,Left,Hilar,Male,41,Asian,Hispanic or Latino,1
+LNG1073,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G1,"Lung, middle lobe",Right,Hilar,Female,44,Asian,Hispanic or Latino,0
+LNG1074,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G2,"Lung, middle lobe",Left,Central,Male,77,White,Not Hispanic or Latino,1
+LNG1075,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G1,"Lung, upper lobe",Right,Peripheral,Male,67,Black or African American,Hispanic or Latino,1
+LNG1076,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G3,Main bronchus,Right,Central,Male,62,Asian,Not Hispanic or Latino,1
+LNG1077,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G1,"Lung, middle lobe",Right,Peripheral,Male,57,Asian,Hispanic or Latino,0
+LNG1078,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G4,Main bronchus,Right,Peripheral,Female,57,Asian,Not Hispanic or Latino,1
+LNG1079,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G4,"Lung, middle lobe",Left,Peripheral,Female,60,Black or African American,Not Hispanic or Latino,0
+LNG108,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, upper lobe",Right,Central,Female,74,Asian,Hispanic or Latino,1
+LNG1080,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G2,"Lung, middle lobe",Left,Peripheral,Female,51,Black or African American,Not Hispanic or Latino,0
+LNG1081,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G1,"Lung, middle lobe",Right,Hilar,Male,47,Other,Not Hispanic or Latino,1
+LNG1082,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G1,Main bronchus,Left,Hilar,Male,50,Other,Hispanic or Latino,1
+LNG1083,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G3,"Lung, middle lobe",Left,Hilar,Female,69,Black or African American,Hispanic or Latino,0
+LNG1084,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G4,"Lung, upper lobe",Left,Hilar,Female,46,White,Not Hispanic or Latino,1
+LNG1085,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G2,Main bronchus,Left,Central,Female,38,Asian,Hispanic or Latino,0
+LNG1086,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G4,"Lung, lower lobe",Right,Peripheral,Male,66,Black or African American,Not Hispanic or Latino,0
+LNG1087,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G3,"Lung, middle lobe",Right,Central,Female,64,Other,Hispanic or Latino,1
+LNG1088,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, upper lobe",Right,Peripheral,Female,60,Asian,Not Hispanic or Latino,0
+LNG1089,TP53_1,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G2,"Lung, lower lobe",Right,Hilar,Male,62,Other,Not Hispanic or Latino,0
+LNG109,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G4,"Lung, upper lobe",Right,Peripheral,Male,54,Black or African American,Not Hispanic or Latino,0
+LNG1090,TP53_1,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G4,"Lung, lower lobe",Left,Hilar,Male,54,Asian,Not Hispanic or Latino,1
+LNG1091,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, lower lobe",Right,Hilar,Male,45,Black or African American,Hispanic or Latino,1
+LNG1092,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G2,"Lung, upper lobe",Left,Hilar,Male,64,Other,Hispanic or Latino,1
+LNG1093,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, middle lobe",Right,Central,Female,43,White,Hispanic or Latino,0
+LNG1094,TP53_1,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G4,Main bronchus,Left,Peripheral,Male,71,Asian,Not Hispanic or Latino,1
+LNG1095,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G1,"Lung, lower lobe",Left,Hilar,Male,41,Other,Hispanic or Latino,0
+LNG1096,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G1,"Lung, lower lobe",Right,Hilar,Female,62,Other,Not Hispanic or Latino,0
+LNG1097,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G4,"Lung, lower lobe",Right,Central,Female,76,White,Not Hispanic or Latino,0
+LNG1098,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G3,"Lung, middle lobe",Right,Hilar,Female,35,White,Not Hispanic or Latino,1
+LNG1099,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G2,"Lung, upper lobe",Left,Central,Female,58,Other,Not Hispanic or Latino,0
+LNG110,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Central,Male,72,Black or African American,Hispanic or Latino,0
+LNG1100,TP53_5,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G4,"Lung, middle lobe",Right,Hilar,Male,39,White,Not Hispanic or Latino,1
+LNG1101,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G4,"Lung, lower lobe",Left,Hilar,Female,36,White,Hispanic or Latino,0
+LNG1102,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G4,"Lung, upper lobe",Left,Hilar,Male,71,Other,Not Hispanic or Latino,1
+LNG1103,TP53_3,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, middle lobe",Right,Central,Male,47,White,Not Hispanic or Latino,1
+LNG1104,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Central,Male,35,Asian,Hispanic or Latino,0
+LNG1105,TP53_5,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G4,Main bronchus,Right,Peripheral,Male,79,White,Not Hispanic or Latino,1
+LNG1106,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, lower lobe",Right,Central,Female,78,Black or African American,Hispanic or Latino,1
+LNG1107,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G1,Main bronchus,Left,Central,Male,51,Other,Hispanic or Latino,0
+LNG1108,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G3,"Lung, lower lobe",Left,Hilar,Female,46,Black or African American,Hispanic or Latino,1
+LNG1109,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, lower lobe",Left,Central,Female,61,White,Hispanic or Latino,1
+LNG111,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G1,"Lung, upper lobe",Right,Hilar,Female,72,Other,Not Hispanic or Latino,1
+LNG1110,TP53_3,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G4,Main bronchus,Left,Peripheral,Male,69,Asian,Hispanic or Latino,1
+LNG1111,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G2,"Lung, upper lobe",Right,Central,Female,56,White,Not Hispanic or Latino,0
+LNG1112,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G3,Main bronchus,Left,Hilar,Female,41,White,Hispanic or Latino,1
+LNG1113,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G4,"Lung, upper lobe",Right,Peripheral,Male,66,White,Hispanic or Latino,1
+LNG1114,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G3,"Lung, lower lobe",Left,Hilar,Male,49,Asian,Hispanic or Latino,0
+LNG1115,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G3,"Lung, middle lobe",Right,Peripheral,Female,61,Other,Hispanic or Latino,1
+LNG1116,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G3,"Lung, upper lobe",Right,Hilar,Female,67,Asian,Not Hispanic or Latino,1
+LNG1117,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G3,Main bronchus,Left,Hilar,Female,37,White,Not Hispanic or Latino,0
+LNG1118,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Female,66,Black or African American,Not Hispanic or Latino,1
+LNG1119,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G1,"Lung, upper lobe",Right,Hilar,Female,35,Other,Hispanic or Latino,0
+LNG112,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G1,"Lung, middle lobe",Left,Hilar,Female,48,Other,Not Hispanic or Latino,1
+LNG1120,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Hilar,Female,47,Other,Hispanic or Latino,1
+LNG1121,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G1,"Lung, middle lobe",Left,Peripheral,Male,56,Black or African American,Not Hispanic or Latino,1
+LNG1122,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Male,76,Asian,Hispanic or Latino,1
+LNG113,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, lower lobe",Right,Peripheral,Male,61,Black or African American,Hispanic or Latino,0
+LNG114,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G3,"Lung, lower lobe",Left,Peripheral,Male,41,White,Hispanic or Latino,1
+LNG115,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G3,Main bronchus,Right,Central,Male,47,Black or African American,Not Hispanic or Latino,1
+LNG116,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G2,"Lung, middle lobe",Left,Hilar,Male,41,Black or African American,Hispanic or Latino,0
+LNG117,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G3,"Lung, upper lobe",Left,Hilar,Female,40,Black or African American,Not Hispanic or Latino,1
+LNG118,TP53_4,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G2,Main bronchus,Right,Peripheral,Female,52,Asian,Not Hispanic or Latino,0
+LNG119,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G1,Main bronchus,Left,Central,Female,68,White,Hispanic or Latino,0
+LNG120,TP53_1,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, middle lobe",Right,Peripheral,Male,83,Black or African American,Not Hispanic or Latino,1
+LNG121,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G4,Main bronchus,Left,Central,Male,48,Black or African American,Not Hispanic or Latino,0
+LNG122,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G4,"Lung, upper lobe",Left,Hilar,Male,64,White,Hispanic or Latino,1
+LNG123,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G2,Main bronchus,Left,Hilar,Female,83,White,Not Hispanic or Latino,1
+LNG124,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G3,"Lung, upper lobe",Right,Hilar,Male,72,White,Not Hispanic or Latino,0
+LNG125,TP53_1,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G4,Main bronchus,Left,Peripheral,Male,68,Black or African American,Not Hispanic or Latino,0
+LNG126,TP53_1,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G4,"Lung, upper lobe",Left,Hilar,Female,85,Other,Not Hispanic or Latino,0
+LNG127,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G1,Main bronchus,Left,Central,Female,72,Other,Hispanic or Latino,0
+LNG128,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G2,"Lung, upper lobe",Left,Hilar,Male,60,White,Hispanic or Latino,0
+LNG129,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G2,"Lung, middle lobe",Right,Hilar,Male,80,Other,Hispanic or Latino,0
+LNG130,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Hilar,Female,61,Other,Not Hispanic or Latino,1
+LNG131,TP53_5,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, middle lobe",Left,Hilar,Male,42,Asian,Not Hispanic or Latino,1
+LNG132,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G2,"Lung, middle lobe",Right,Peripheral,Female,59,Asian,Hispanic or Latino,1
+LNG133,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G3,"Lung, middle lobe",Left,Central,Male,38,Black or African American,Hispanic or Latino,0
+LNG134,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G1,"Lung, middle lobe",Left,Central,Male,43,Black or African American,Hispanic or Latino,1
+LNG135,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G2,"Lung, middle lobe",Right,Hilar,Female,42,White,Not Hispanic or Latino,1
+LNG136,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G2,Main bronchus,Right,Hilar,Female,36,White,Not Hispanic or Latino,1
+LNG137,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G1,"Lung, middle lobe",Right,Peripheral,Male,37,Black or African American,Hispanic or Latino,1
+LNG138,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G2,"Lung, upper lobe",Right,Central,Female,79,Black or African American,Not Hispanic or Latino,1
+LNG139,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G3,"Lung, middle lobe",Right,Hilar,Female,36,Other,Hispanic or Latino,1
+LNG140,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Male,57,Other,Not Hispanic or Latino,1
+LNG141,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G1,"Lung, upper lobe",Left,Peripheral,Male,39,Asian,Not Hispanic or Latino,1
+LNG142,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G4,Main bronchus,Right,Central,Female,73,White,Not Hispanic or Latino,0
+LNG143,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Peripheral,Female,75,White,Hispanic or Latino,1
+LNG144,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Central,Male,75,Other,Not Hispanic or Latino,1
+LNG145,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,Main bronchus,Left,Central,Male,69,Black or African American,Not Hispanic or Latino,1
+LNG146,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G3,Main bronchus,Right,Central,Male,36,Asian,Hispanic or Latino,0
+LNG147,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Peripheral,Male,49,Asian,Not Hispanic or Latino,0
+LNG148,TP53_4,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G3,Main bronchus,Right,Central,Female,40,Asian,Hispanic or Latino,0
+LNG149,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, lower lobe",Right,Hilar,Female,75,Asian,Not Hispanic or Latino,1
+LNG150,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, middle lobe",Left,Central,Female,65,White,Not Hispanic or Latino,0
+LNG151,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G4,"Lung, middle lobe",Left,Hilar,Female,81,Other,Not Hispanic or Latino,1
+LNG152,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G3,"Lung, middle lobe",Right,Central,Female,78,Black or African American,Not Hispanic or Latino,1
+LNG153,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G4,"Lung, middle lobe",Right,Hilar,Female,71,Asian,Hispanic or Latino,1
+LNG154,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G2,"Lung, lower lobe",Left,Central,Male,80,Other,Hispanic or Latino,1
+LNG155,TP53_5,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G1,"Lung, upper lobe",Right,Central,Female,81,White,Not Hispanic or Latino,0
+LNG156,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, middle lobe",Right,Hilar,Female,67,White,Hispanic or Latino,1
+LNG157,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Female,42,Other,Not Hispanic or Latino,1
+LNG158,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, middle lobe",Right,Peripheral,Male,52,Asian,Not Hispanic or Latino,1
+LNG159,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G1,"Lung, upper lobe",Right,Hilar,Male,65,Other,Hispanic or Latino,0
+LNG160,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,Main bronchus,Right,Central,Male,52,White,Not Hispanic or Latino,1
+LNG161,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, lower lobe",Left,Central,Female,78,White,Hispanic or Latino,1
+LNG162,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G1,"Lung, lower lobe",Right,Hilar,Female,72,Other,Not Hispanic or Latino,1
+LNG163,TP53_3,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Male,38,White,Hispanic or Latino,1
+LNG164,TP53_3,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G3,Main bronchus,Left,Hilar,Male,69,Other,Not Hispanic or Latino,1
+LNG165,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G2,Main bronchus,Left,Central,Male,55,White,Hispanic or Latino,0
+LNG166,TP53_1,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G3,"Lung, middle lobe",Right,Hilar,Female,73,Asian,Hispanic or Latino,0
+LNG167,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, upper lobe",Left,Central,Male,61,Black or African American,Hispanic or Latino,0
+LNG168,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G3,Main bronchus,Left,Central,Female,47,Asian,Hispanic or Latino,1
+LNG169,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G3,"Lung, lower lobe",Right,Central,Female,46,Asian,Hispanic or Latino,0
+LNG170,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, middle lobe",Right,Hilar,Male,55,Black or African American,Hispanic or Latino,1
+LNG171,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G4,"Lung, middle lobe",Right,Central,Female,75,Black or African American,Hispanic or Latino,1
+LNG172,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G2,"Lung, lower lobe",Left,Hilar,Female,63,Other,Hispanic or Latino,0
+LNG173,TP53_4,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, lower lobe",Left,Central,Male,45,Black or African American,Hispanic or Latino,1
+LNG174,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G3,"Lung, upper lobe",Right,Central,Male,57,Other,Hispanic or Latino,1
+LNG175,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G1,Main bronchus,Left,Central,Male,70,White,Not Hispanic or Latino,1
+LNG176,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G3,"Lung, lower lobe",Right,Central,Female,42,Asian,Not Hispanic or Latino,1
+LNG177,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Central,Female,59,Black or African American,Not Hispanic or Latino,1
+LNG178,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G4,"Lung, upper lobe",Right,Peripheral,Female,57,White,Hispanic or Latino,1
+LNG179,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G2,"Lung, upper lobe",Right,Peripheral,Female,57,White,Hispanic or Latino,0
+LNG180,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G1,Main bronchus,Left,Peripheral,Female,49,Other,Not Hispanic or Latino,1
+LNG181,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G3,Main bronchus,Left,Central,Female,45,Black or African American,Not Hispanic or Latino,1
+LNG182,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G1,"Lung, middle lobe",Left,Hilar,Female,42,White,Hispanic or Latino,0
+LNG183,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G4,"Lung, middle lobe",Left,Central,Female,66,Asian,Not Hispanic or Latino,0
+LNG184,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G1,Main bronchus,Right,Hilar,Male,82,Asian,Hispanic or Latino,0
+LNG185,TP53_1,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G3,"Lung, lower lobe",Left,Peripheral,Female,66,Asian,Not Hispanic or Latino,0
+LNG186,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G4,"Lung, lower lobe",Right,Peripheral,Female,36,White,Hispanic or Latino,0
+LNG187,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, upper lobe",Left,Hilar,Female,46,Asian,Not Hispanic or Latino,0
+LNG188,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Male,47,Asian,Not Hispanic or Latino,0
+LNG189,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G4,Main bronchus,Left,Central,Male,35,Black or African American,Hispanic or Latino,0
+LNG190,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G2,Main bronchus,Left,Hilar,Male,70,White,Not Hispanic or Latino,0
+LNG191,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G1,"Lung, lower lobe",Left,Hilar,Female,35,Asian,Hispanic or Latino,1
+LNG192,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G3,"Lung, lower lobe",Left,Peripheral,Female,60,Asian,Hispanic or Latino,1
+LNG193,TP53_2,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G1,"Lung, lower lobe",Right,Hilar,Female,63,White,Hispanic or Latino,1
+LNG194,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G2,"Lung, upper lobe",Left,Hilar,Female,51,Other,Hispanic or Latino,0
+LNG195,TP53_3,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G1,Main bronchus,Right,Peripheral,Female,47,Asian,Not Hispanic or Latino,0
+LNG196,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G1,Main bronchus,Right,Peripheral,Male,59,Other,Hispanic or Latino,1
+LNG197,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G4,Main bronchus,Left,Peripheral,Male,69,Other,Not Hispanic or Latino,1
+LNG198,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, upper lobe",Right,Central,Male,85,Asian,Hispanic or Latino,0
+LNG199,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G1,Main bronchus,Right,Hilar,Female,80,Black or African American,Hispanic or Latino,1
+LNG200,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G3,"Lung, upper lobe",Right,Peripheral,Female,76,Asian,Not Hispanic or Latino,1
+LNG201,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,46,White,Hispanic or Latino,1
+LNG202,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G1,"Lung, lower lobe",Left,Hilar,Female,58,Other,Hispanic or Latino,0
+LNG203,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, middle lobe",Left,Hilar,Male,62,White,Not Hispanic or Latino,1
+LNG204,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, upper lobe",Right,Peripheral,Female,50,Asian,Not Hispanic or Latino,0
+LNG205,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G1,"Lung, lower lobe",Left,Central,Female,78,White,Hispanic or Latino,1
+LNG206,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G3,"Lung, lower lobe",Left,Hilar,Male,71,Other,Hispanic or Latino,0
+LNG207,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G3,"Lung, lower lobe",Right,Central,Male,49,Asian,Hispanic or Latino,1
+LNG208,TP53_3,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G2,"Lung, upper lobe",Right,Hilar,Male,45,Asian,Hispanic or Latino,0
+LNG209,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Female,69,White,Hispanic or Latino,1
+LNG210,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G2,"Lung, upper lobe",Right,Hilar,Female,73,Black or African American,Not Hispanic or Latino,0
+LNG211,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G2,"Lung, middle lobe",Right,Central,Male,60,White,Not Hispanic or Latino,1
+LNG212,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, middle lobe",Right,Peripheral,Male,71,White,Hispanic or Latino,0
+LNG213,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, lower lobe",Right,Hilar,Male,77,Asian,Not Hispanic or Latino,1
+LNG214,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G3,"Lung, lower lobe",Right,Central,Male,48,Asian,Hispanic or Latino,0
+LNG215,TP53_5,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G4,"Lung, upper lobe",Right,Hilar,Male,62,Other,Not Hispanic or Latino,1
+LNG216,TP53_4,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G3,Main bronchus,Left,Peripheral,Female,63,Asian,Hispanic or Latino,0
+LNG217,TP53_3,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G3,"Lung, lower lobe",Left,Hilar,Female,70,Black or African American,Not Hispanic or Latino,0
+LNG218,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G4,"Lung, middle lobe",Right,Peripheral,Male,76,Asian,Hispanic or Latino,1
+LNG219,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G2,Main bronchus,Right,Hilar,Male,83,White,Not Hispanic or Latino,0
+LNG220,TP53_3,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G2,"Lung, lower lobe",Right,Central,Female,42,Other,Not Hispanic or Latino,1
+LNG221,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G3,Main bronchus,Right,Central,Female,58,Other,Not Hispanic or Latino,1
+LNG222,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G1,"Lung, lower lobe",Right,Central,Female,78,Black or African American,Not Hispanic or Latino,0
+LNG223,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G2,"Lung, lower lobe",Left,Peripheral,Female,40,Other,Hispanic or Latino,1
+LNG224,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, upper lobe",Left,Central,Female,45,Black or African American,Not Hispanic or Latino,0
+LNG225,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G1,Main bronchus,Left,Central,Male,77,Asian,Hispanic or Latino,0
+LNG226,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G1,Main bronchus,Right,Hilar,Female,40,Black or African American,Not Hispanic or Latino,1
+LNG227,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G3,Main bronchus,Left,Peripheral,Female,85,White,Hispanic or Latino,0
+LNG228,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, upper lobe",Right,Central,Male,70,Other,Hispanic or Latino,1
+LNG229,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,64,Black or African American,Not Hispanic or Latino,1
+LNG230,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G4,"Lung, middle lobe",Right,Hilar,Male,71,Black or African American,Hispanic or Latino,1
+LNG231,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, middle lobe",Left,Peripheral,Female,84,Asian,Not Hispanic or Latino,1
+LNG232,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G2,Main bronchus,Left,Hilar,Male,55,Other,Not Hispanic or Latino,1
+LNG233,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, middle lobe",Right,Central,Female,61,Other,Hispanic or Latino,1
+LNG234,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Male,68,Other,Hispanic or Latino,1
+LNG235,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G2,"Lung, lower lobe",Right,Central,Female,84,White,Hispanic or Latino,0
+LNG236,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G4,Main bronchus,Left,Hilar,Male,52,White,Not Hispanic or Latino,1
+LNG237,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G2,Main bronchus,Right,Hilar,Male,78,Black or African American,Hispanic or Latino,0
+LNG238,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Central,Male,53,White,Not Hispanic or Latino,0
+LNG239,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,Main bronchus,Left,Central,Female,62,Other,Hispanic or Latino,1
+LNG240,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, lower lobe",Left,Central,Male,77,White,Not Hispanic or Latino,1
+LNG241,TP53_5,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G2,"Lung, lower lobe",Left,Peripheral,Male,51,Other,Hispanic or Latino,1
+LNG242,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G2,"Lung, middle lobe",Right,Peripheral,Male,39,White,Not Hispanic or Latino,1
+LNG243,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G2,"Lung, middle lobe",Right,Peripheral,Female,68,Black or African American,Hispanic or Latino,0
+LNG244,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, upper lobe",Right,Peripheral,Male,43,Asian,Hispanic or Latino,0
+LNG245,TP53_1,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G4,"Lung, lower lobe",Left,Hilar,Male,85,Asian,Hispanic or Latino,1
+LNG246,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G2,"Lung, lower lobe",Left,Central,Female,54,Black or African American,Not Hispanic or Latino,0
+LNG247,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G3,Main bronchus,Left,Central,Male,57,Black or African American,Not Hispanic or Latino,1
+LNG248,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G4,"Lung, upper lobe",Right,Hilar,Female,36,White,Hispanic or Latino,0
+LNG249,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G3,Main bronchus,Right,Hilar,Male,80,Asian,Hispanic or Latino,1
+LNG250,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G1,"Lung, upper lobe",Left,Peripheral,Male,40,Black or African American,Hispanic or Latino,0
+LNG251,TP53_4,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G2,Main bronchus,Right,Peripheral,Female,59,Black or African American,Not Hispanic or Latino,0
+LNG252,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, middle lobe",Left,Central,Female,60,Asian,Hispanic or Latino,0
+LNG253,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G2,"Lung, upper lobe",Left,Central,Female,52,White,Not Hispanic or Latino,1
+LNG254,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G3,"Lung, upper lobe",Left,Central,Male,80,Black or African American,Not Hispanic or Latino,0
+LNG255,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Hilar,Male,53,Asian,Hispanic or Latino,0
+LNG256,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G4,Main bronchus,Right,Central,Female,73,White,Not Hispanic or Latino,1
+LNG257,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Hilar,Female,67,Asian,Hispanic or Latino,0
+LNG258,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G2,Main bronchus,Left,Peripheral,Male,81,Black or African American,Hispanic or Latino,1
+LNG259,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G4,"Lung, middle lobe",Right,Peripheral,Male,63,Other,Not Hispanic or Latino,0
+LNG260,TP53_3,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, middle lobe",Left,Peripheral,Female,85,Black or African American,Hispanic or Latino,0
+LNG261,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G3,"Lung, upper lobe",Right,Peripheral,Female,75,Black or African American,Not Hispanic or Latino,0
+LNG262,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G1,"Lung, lower lobe",Left,Central,Female,81,Asian,Hispanic or Latino,0
+LNG263,TP53_2,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, middle lobe",Left,Peripheral,Male,65,Black or African American,Not Hispanic or Latino,1
+LNG264,TP53_1,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,Main bronchus,Left,Central,Female,73,Asian,Hispanic or Latino,0
+LNG265,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, upper lobe",Right,Central,Male,60,Other,Not Hispanic or Latino,1
+LNG266,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, middle lobe",Left,Hilar,Female,70,Other,Hispanic or Latino,0
+LNG267,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G1,"Lung, middle lobe",Left,Hilar,Male,46,White,Not Hispanic or Latino,0
+LNG268,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G2,"Lung, lower lobe",Left,Hilar,Male,82,White,Not Hispanic or Latino,1
+LNG269,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G1,"Lung, middle lobe",Right,Hilar,Female,43,Asian,Hispanic or Latino,1
+LNG270,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G2,Main bronchus,Right,Central,Female,55,Asian,Not Hispanic or Latino,1
+LNG271,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G1,"Lung, lower lobe",Left,Peripheral,Female,63,White,Not Hispanic or Latino,1
+LNG272,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, middle lobe",Left,Central,Female,47,Asian,Hispanic or Latino,0
+LNG273,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Hilar,Male,36,Asian,Not Hispanic or Latino,1
+LNG274,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G1,"Lung, lower lobe",Right,Central,Male,53,White,Hispanic or Latino,1
+LNG275,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G3,Main bronchus,Right,Peripheral,Female,75,Other,Hispanic or Latino,1
+LNG276,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G3,"Lung, upper lobe",Left,Central,Female,70,Other,Hispanic or Latino,1
+LNG277,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G1,"Lung, upper lobe",Right,Peripheral,Female,51,Asian,Not Hispanic or Latino,0
+LNG278,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,Main bronchus,Right,Hilar,Male,61,Black or African American,Not Hispanic or Latino,0
+LNG279,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, middle lobe",Right,Peripheral,Male,70,White,Hispanic or Latino,1
+LNG280,TP53_3,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G3,"Lung, lower lobe",Left,Peripheral,Male,41,Black or African American,Not Hispanic or Latino,1
+LNG281,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G4,"Lung, lower lobe",Right,Peripheral,Male,77,White,Not Hispanic or Latino,0
+LNG282,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, upper lobe",Left,Peripheral,Male,49,Other,Not Hispanic or Latino,0
+LNG283,TP53_4,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Male,47,Other,Hispanic or Latino,0
+LNG284,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, upper lobe",Right,Hilar,Male,40,White,Hispanic or Latino,0
+LNG285,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, upper lobe",Right,Central,Male,42,Asian,Hispanic or Latino,0
+LNG286,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G1,Main bronchus,Left,Hilar,Female,46,Asian,Hispanic or Latino,0
+LNG287,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G3,Main bronchus,Right,Hilar,Female,61,Asian,Not Hispanic or Latino,0
+LNG288,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G2,"Lung, upper lobe",Right,Peripheral,Male,40,Black or African American,Not Hispanic or Latino,0
+LNG289,TP53_2,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, lower lobe",Left,Hilar,Male,61,Other,Not Hispanic or Latino,0
+LNG290,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G4,"Lung, upper lobe",Left,Hilar,Male,38,Other,Hispanic or Latino,0
+LNG291,TP53_4,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G4,"Lung, upper lobe",Left,Hilar,Female,67,Asian,Not Hispanic or Latino,1
+LNG292,TP53_3,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G3,"Lung, middle lobe",Left,Hilar,Female,39,Asian,Not Hispanic or Latino,0
+LNG293,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G2,"Lung, upper lobe",Left,Peripheral,Female,55,White,Hispanic or Latino,0
+LNG294,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G1,"Lung, upper lobe",Left,Peripheral,Female,84,Other,Not Hispanic or Latino,0
+LNG295,TP53_4,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Hilar,Female,77,Other,Not Hispanic or Latino,0
+LNG296,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G1,"Lung, upper lobe",Right,Central,Male,84,White,Hispanic or Latino,0
+LNG297,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G3,"Lung, upper lobe",Left,Hilar,Female,64,Other,Hispanic or Latino,0
+LNG298,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G3,Main bronchus,Left,Hilar,Female,75,Black or African American,Hispanic or Latino,1
+LNG299,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G2,"Lung, lower lobe",Right,Peripheral,Male,66,White,Not Hispanic or Latino,0
+LNG300,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G2,Main bronchus,Left,Peripheral,Female,64,Black or African American,Hispanic or Latino,0
+LNG301,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G3,"Lung, lower lobe",Left,Hilar,Female,64,Asian,Hispanic or Latino,0
+LNG302,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G4,"Lung, upper lobe",Left,Peripheral,Male,70,Asian,Not Hispanic or Latino,0
+LNG303,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G4,"Lung, lower lobe",Right,Peripheral,Male,36,Other,Hispanic or Latino,0
+LNG304,TP53_3,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G2,"Lung, upper lobe",Right,Hilar,Female,59,Asian,Hispanic or Latino,0
+LNG305,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G1,"Lung, upper lobe",Left,Central,Female,51,Asian,Not Hispanic or Latino,0
+LNG306,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G3,"Lung, lower lobe",Right,Peripheral,Male,75,Asian,Not Hispanic or Latino,0
+LNG307,TP53_3,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G2,"Lung, middle lobe",Left,Peripheral,Male,42,Black or African American,Hispanic or Latino,0
+LNG308,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,Main bronchus,Left,Hilar,Male,47,Other,Not Hispanic or Latino,1
+LNG309,TP53_1,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, middle lobe",Left,Hilar,Female,79,Asian,Hispanic or Latino,1
+LNG310,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G3,Main bronchus,Right,Central,Male,64,Asian,Not Hispanic or Latino,1
+LNG311,TP53_5,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, middle lobe",Left,Peripheral,Male,77,Other,Not Hispanic or Latino,0
+LNG312,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Male,46,Black or African American,Not Hispanic or Latino,0
+LNG313,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G3,Main bronchus,Left,Hilar,Female,50,White,Not Hispanic or Latino,0
+LNG314,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G2,Main bronchus,Left,Hilar,Male,55,Black or African American,Not Hispanic or Latino,1
+LNG315,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, middle lobe",Left,Hilar,Male,81,Other,Not Hispanic or Latino,1
+LNG316,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G4,"Lung, upper lobe",Left,Hilar,Female,62,Asian,Not Hispanic or Latino,1
+LNG317,TP53_4,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G1,"Lung, middle lobe",Left,Central,Female,67,Black or African American,Not Hispanic or Latino,1
+LNG318,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G3,"Lung, upper lobe",Left,Hilar,Female,60,Other,Hispanic or Latino,0
+LNG319,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, upper lobe",Left,Central,Female,64,Black or African American,Not Hispanic or Latino,0
+LNG320,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G4,Main bronchus,Right,Hilar,Male,49,Asian,Hispanic or Latino,1
+LNG321,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G3,"Lung, middle lobe",Left,Central,Male,64,Other,Not Hispanic or Latino,0
+LNG322,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G3,"Lung, middle lobe",Right,Central,Male,47,Other,Not Hispanic or Latino,0
+LNG323,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, upper lobe",Right,Central,Male,67,Asian,Hispanic or Latino,0
+LNG324,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, lower lobe",Left,Peripheral,Female,66,Asian,Hispanic or Latino,1
+LNG325,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G1,"Lung, upper lobe",Right,Peripheral,Male,61,White,Not Hispanic or Latino,0
+LNG326,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G4,"Lung, upper lobe",Right,Central,Female,47,White,Hispanic or Latino,0
+LNG327,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G2,"Lung, upper lobe",Left,Peripheral,Male,75,White,Hispanic or Latino,0
+LNG328,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G2,"Lung, middle lobe",Right,Hilar,Female,72,Asian,Hispanic or Latino,0
+LNG329,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G1,Main bronchus,Left,Central,Female,73,Asian,Not Hispanic or Latino,1
+LNG330,TP53_5,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G2,Main bronchus,Right,Central,Male,64,Asian,Hispanic or Latino,1
+LNG331,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G1,Main bronchus,Left,Peripheral,Female,83,White,Not Hispanic or Latino,0
+LNG332,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Central,Male,71,White,Not Hispanic or Latino,0
+LNG333,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G1,Main bronchus,Left,Hilar,Female,67,Asian,Not Hispanic or Latino,1
+LNG334,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, lower lobe",Left,Hilar,Male,65,Asian,Not Hispanic or Latino,1
+LNG335,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G3,Main bronchus,Left,Central,Male,75,Asian,Hispanic or Latino,0
+LNG336,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G4,"Lung, upper lobe",Left,Hilar,Male,47,Asian,Not Hispanic or Latino,1
+LNG337,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G2,Main bronchus,Right,Hilar,Male,62,Other,Hispanic or Latino,1
+LNG338,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G2,"Lung, lower lobe",Left,Central,Female,83,Asian,Hispanic or Latino,1
+LNG339,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Peripheral,Male,60,Asian,Hispanic or Latino,0
+LNG340,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G3,"Lung, middle lobe",Left,Central,Female,54,Black or African American,Not Hispanic or Latino,1
+LNG341,TP53_5,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G4,"Lung, middle lobe",Left,Central,Female,53,Asian,Hispanic or Latino,0
+LNG342,TP53_4,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G1,Main bronchus,Right,Peripheral,Male,77,Black or African American,Not Hispanic or Latino,1
+LNG343,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G1,Main bronchus,Left,Hilar,Female,65,White,Hispanic or Latino,1
+LNG344,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G4,Main bronchus,Left,Peripheral,Male,79,Other,Hispanic or Latino,0
+LNG345,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G1,"Lung, lower lobe",Left,Central,Male,84,White,Not Hispanic or Latino,1
+LNG346,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G1,Main bronchus,Right,Central,Male,79,Other,Not Hispanic or Latino,1
+LNG347,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, lower lobe",Left,Hilar,Male,40,Asian,Hispanic or Latino,0
+LNG348,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G4,"Lung, upper lobe",Right,Central,Female,81,Asian,Not Hispanic or Latino,1
+LNG349,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G1,"Lung, lower lobe",Left,Central,Female,50,White,Hispanic or Latino,0
+LNG350,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G3,"Lung, middle lobe",Left,Peripheral,Female,55,White,Not Hispanic or Latino,0
+LNG351,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G3,"Lung, upper lobe",Left,Hilar,Male,42,Asian,Not Hispanic or Latino,0
+LNG352,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G2,"Lung, upper lobe",Right,Hilar,Male,69,Other,Hispanic or Latino,1
+LNG353,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G3,"Lung, lower lobe",Right,Hilar,Female,82,Asian,Not Hispanic or Latino,0
+LNG354,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G4,"Lung, lower lobe",Left,Hilar,Female,72,White,Hispanic or Latino,0
+LNG355,TP53_1,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, middle lobe",Left,Peripheral,Male,52,Asian,Hispanic or Latino,1
+LNG356,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G4,"Lung, lower lobe",Right,Central,Male,50,Asian,Not Hispanic or Latino,1
+LNG357,TP53_5,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G2,Main bronchus,Left,Hilar,Male,57,Other,Hispanic or Latino,1
+LNG358,TP53_1,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Female,59,White,Hispanic or Latino,1
+LNG359,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G4,Main bronchus,Left,Peripheral,Female,45,Asian,Hispanic or Latino,0
+LNG360,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G2,"Lung, middle lobe",Right,Hilar,Male,57,White,Hispanic or Latino,0
+LNG361,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, middle lobe",Right,Hilar,Female,47,Other,Hispanic or Latino,1
+LNG362,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G1,"Lung, upper lobe",Left,Peripheral,Female,54,Asian,Hispanic or Latino,1
+LNG363,TP53_3,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G1,"Lung, upper lobe",Left,Peripheral,Female,36,Asian,Hispanic or Latino,0
+LNG364,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G2,"Lung, middle lobe",Right,Peripheral,Female,59,Black or African American,Not Hispanic or Latino,1
+LNG365,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, middle lobe",Right,Central,Female,39,Black or African American,Hispanic or Latino,1
+LNG366,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G4,Main bronchus,Left,Hilar,Male,47,White,Not Hispanic or Latino,1
+LNG367,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G1,"Lung, upper lobe",Right,Peripheral,Male,85,Black or African American,Hispanic or Latino,1
+LNG368,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G2,"Lung, upper lobe",Left,Central,Female,38,White,Hispanic or Latino,0
+LNG369,TP53_3,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G4,Main bronchus,Left,Central,Female,61,Other,Not Hispanic or Latino,1
+LNG370,TP53_3,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G2,Main bronchus,Left,Hilar,Male,57,Asian,Not Hispanic or Latino,1
+LNG371,TP53_4,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G1,"Lung, lower lobe",Right,Central,Female,45,Other,Not Hispanic or Latino,1
+LNG372,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G3,"Lung, middle lobe",Left,Central,Female,59,White,Not Hispanic or Latino,1
+LNG373,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G1,"Lung, lower lobe",Left,Peripheral,Male,35,Black or African American,Hispanic or Latino,0
+LNG374,TP53_5,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, lower lobe",Right,Peripheral,Female,64,White,Hispanic or Latino,0
+LNG375,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G2,"Lung, middle lobe",Right,Peripheral,Male,56,Black or African American,Hispanic or Latino,0
+LNG376,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, middle lobe",Right,Central,Female,54,Other,Hispanic or Latino,0
+LNG377,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G1,"Lung, lower lobe",Right,Central,Male,70,White,Not Hispanic or Latino,0
+LNG378,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G2,"Lung, lower lobe",Right,Hilar,Male,74,White,Hispanic or Latino,1
+LNG379,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G1,"Lung, middle lobe",Right,Hilar,Female,73,Other,Not Hispanic or Latino,1
+LNG380,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G3,"Lung, upper lobe",Left,Central,Male,77,Asian,Not Hispanic or Latino,0
+LNG381,TP53_1,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G1,"Lung, lower lobe",Right,Central,Male,71,White,Hispanic or Latino,0
+LNG382,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, upper lobe",Right,Hilar,Male,73,Other,Hispanic or Latino,1
+LNG383,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G1,Main bronchus,Left,Central,Female,69,White,Not Hispanic or Latino,0
+LNG384,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G4,"Lung, upper lobe",Left,Peripheral,Female,80,Black or African American,Not Hispanic or Latino,1
+LNG385,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Hilar,Male,72,Black or African American,Hispanic or Latino,0
+LNG386,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G1,"Lung, middle lobe",Left,Peripheral,Male,60,Other,Not Hispanic or Latino,0
+LNG387,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G3,Main bronchus,Left,Hilar,Female,57,Asian,Not Hispanic or Latino,1
+LNG388,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G2,"Lung, upper lobe",Right,Peripheral,Female,47,Asian,Hispanic or Latino,1
+LNG389,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G3,Main bronchus,Right,Hilar,Male,79,Black or African American,Hispanic or Latino,1
+LNG390,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Female,56,Other,Hispanic or Latino,1
+LNG391,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G1,"Lung, middle lobe",Left,Central,Female,57,Asian,Not Hispanic or Latino,0
+LNG392,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G1,"Lung, upper lobe",Left,Hilar,Male,51,Other,Hispanic or Latino,1
+LNG393,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G2,"Lung, middle lobe",Right,Peripheral,Female,47,Other,Not Hispanic or Latino,1
+LNG394,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G4,Main bronchus,Left,Central,Male,53,Black or African American,Not Hispanic or Latino,0
+LNG395,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G3,Main bronchus,Right,Hilar,Male,43,White,Hispanic or Latino,0
+LNG396,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G1,"Lung, lower lobe",Right,Peripheral,Male,44,Black or African American,Hispanic or Latino,1
+LNG397,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G3,"Lung, upper lobe",Right,Central,Male,72,Other,Hispanic or Latino,1
+LNG398,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G1,"Lung, middle lobe",Left,Peripheral,Female,79,White,Not Hispanic or Latino,1
+LNG399,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G3,"Lung, middle lobe",Right,Hilar,Male,70,Asian,Not Hispanic or Latino,0
+LNG400,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G3,"Lung, middle lobe",Right,Central,Female,69,Asian,Not Hispanic or Latino,1
+LNG401,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, upper lobe",Right,Hilar,Female,79,Black or African American,Not Hispanic or Latino,1
+LNG402,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G1,"Lung, lower lobe",Left,Central,Female,41,Other,Hispanic or Latino,1
+LNG403,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G1,"Lung, middle lobe",Right,Hilar,Female,53,Black or African American,Not Hispanic or Latino,0
+LNG404,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G2,"Lung, upper lobe",Left,Central,Male,53,Other,Hispanic or Latino,1
+LNG405,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G2,"Lung, upper lobe",Left,Central,Female,84,Asian,Hispanic or Latino,0
+LNG406,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G2,"Lung, middle lobe",Left,Central,Female,47,Black or African American,Hispanic or Latino,0
+LNG407,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G1,"Lung, middle lobe",Left,Peripheral,Male,47,Asian,Hispanic or Latino,1
+LNG408,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G3,"Lung, lower lobe",Right,Hilar,Female,39,Black or African American,Hispanic or Latino,1
+LNG409,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G2,Main bronchus,Left,Hilar,Male,58,Black or African American,Not Hispanic or Latino,1
+LNG410,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G1,"Lung, lower lobe",Right,Central,Female,64,White,Hispanic or Latino,0
+LNG411,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G4,"Lung, upper lobe",Left,Hilar,Male,49,Asian,Hispanic or Latino,1
+LNG412,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G4,Main bronchus,Right,Hilar,Male,61,White,Not Hispanic or Latino,1
+LNG413,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Male,42,White,Not Hispanic or Latino,0
+LNG414,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G1,Main bronchus,Right,Peripheral,Male,70,Other,Hispanic or Latino,1
+LNG415,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Hilar,Male,85,White,Hispanic or Latino,0
+LNG416,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Hilar,Male,73,Other,Hispanic or Latino,0
+LNG417,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, upper lobe",Right,Peripheral,Female,53,Other,Not Hispanic or Latino,1
+LNG418,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G1,"Lung, upper lobe",Right,Hilar,Female,78,Black or African American,Not Hispanic or Latino,1
+LNG419,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, upper lobe",Left,Hilar,Female,85,Black or African American,Hispanic or Latino,1
+LNG420,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, middle lobe",Right,Hilar,Female,70,Black or African American,Not Hispanic or Latino,0
+LNG421,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G3,"Lung, middle lobe",Left,Peripheral,Male,82,Asian,Not Hispanic or Latino,0
+LNG422,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G4,Main bronchus,Right,Peripheral,Male,45,Black or African American,Hispanic or Latino,0
+LNG423,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G4,"Lung, upper lobe",Left,Central,Female,69,Black or African American,Hispanic or Latino,1
+LNG424,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Peripheral,Female,67,White,Hispanic or Latino,1
+LNG425,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G4,"Lung, middle lobe",Left,Hilar,Male,53,Black or African American,Hispanic or Latino,0
+LNG426,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G4,Main bronchus,Right,Hilar,Male,84,Black or African American,Not Hispanic or Latino,0
+LNG427,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G3,Main bronchus,Left,Hilar,Female,73,Asian,Not Hispanic or Latino,1
+LNG428,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, upper lobe",Left,Central,Male,54,Asian,Hispanic or Latino,0
+LNG429,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G2,Main bronchus,Right,Central,Male,35,Asian,Hispanic or Latino,1
+LNG430,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G3,"Lung, lower lobe",Left,Peripheral,Male,79,Other,Hispanic or Latino,0
+LNG431,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, lower lobe",Right,Hilar,Female,70,Asian,Hispanic or Latino,0
+LNG432,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,Main bronchus,Left,Peripheral,Female,46,Other,Not Hispanic or Latino,1
+LNG433,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G2,"Lung, lower lobe",Left,Central,Male,79,White,Not Hispanic or Latino,1
+LNG434,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,Main bronchus,Right,Peripheral,Female,43,Black or African American,Hispanic or Latino,0
+LNG435,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G4,"Lung, middle lobe",Right,Peripheral,Male,52,Other,Hispanic or Latino,1
+LNG436,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G4,"Lung, middle lobe",Left,Peripheral,Male,58,Black or African American,Hispanic or Latino,1
+LNG437,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G2,"Lung, middle lobe",Right,Peripheral,Female,49,Other,Not Hispanic or Latino,1
+LNG438,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G1,Main bronchus,Right,Peripheral,Male,54,Asian,Hispanic or Latino,0
+LNG439,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G1,"Lung, lower lobe",Right,Central,Male,61,Asian,Not Hispanic or Latino,1
+LNG440,TP53_1,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G1,"Lung, upper lobe",Left,Central,Female,83,Black or African American,Hispanic or Latino,0
+LNG441,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G4,"Lung, middle lobe",Left,Central,Male,44,Other,Not Hispanic or Latino,0
+LNG442,TP53_5,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Hilar,Female,70,Black or African American,Hispanic or Latino,1
+LNG443,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,Main bronchus,Right,Central,Male,85,White,Not Hispanic or Latino,0
+LNG444,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,"Lung, lower lobe",Right,Hilar,Male,64,Other,Hispanic or Latino,1
+LNG445,TP53_4,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,"Lung, upper lobe",Left,Central,Female,79,Asian,Hispanic or Latino,0
+LNG446,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Hilar,Female,49,Other,Hispanic or Latino,1
+LNG447,TP53_3,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G2,"Lung, upper lobe",Left,Hilar,Female,75,Black or African American,Not Hispanic or Latino,1
+LNG448,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G4,"Lung, lower lobe",Right,Central,Female,42,Asian,Not Hispanic or Latino,1
+LNG449,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G4,Main bronchus,Left,Peripheral,Male,72,White,Not Hispanic or Latino,1
+LNG450,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Hilar,Female,49,White,Not Hispanic or Latino,1
+LNG451,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, middle lobe",Left,Hilar,Male,55,Asian,Not Hispanic or Latino,1
+LNG452,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G3,"Lung, middle lobe",Left,Hilar,Female,80,Other,Hispanic or Latino,0
+LNG453,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G4,"Lung, lower lobe",Left,Hilar,Female,61,Asian,Not Hispanic or Latino,0
+LNG454,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G4,"Lung, upper lobe",Left,Hilar,Female,76,Black or African American,Not Hispanic or Latino,0
+LNG455,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G4,Main bronchus,Right,Peripheral,Female,54,White,Hispanic or Latino,0
+LNG456,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G4,"Lung, middle lobe",Right,Central,Male,65,White,Not Hispanic or Latino,1
+LNG457,TP53_3,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G3,Main bronchus,Right,Central,Female,74,Asian,Not Hispanic or Latino,1
+LNG458,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, middle lobe",Right,Central,Male,41,Asian,Not Hispanic or Latino,0
+LNG459,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Hilar,Male,83,Black or African American,Hispanic or Latino,0
+LNG460,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G2,"Lung, lower lobe",Left,Hilar,Female,54,White,Not Hispanic or Latino,0
+LNG461,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G4,"Lung, upper lobe",Left,Central,Male,74,Black or African American,Hispanic or Latino,1
+LNG462,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G1,"Lung, upper lobe",Left,Peripheral,Male,35,Black or African American,Hispanic or Latino,1
+LNG463,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G3,Main bronchus,Right,Hilar,Male,71,White,Hispanic or Latino,0
+LNG464,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, upper lobe",Left,Hilar,Male,70,Asian,Not Hispanic or Latino,0
+LNG465,TP53_3,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, lower lobe",Right,Central,Female,48,Black or African American,Not Hispanic or Latino,0
+LNG466,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G2,"Lung, upper lobe",Left,Hilar,Male,44,White,Not Hispanic or Latino,1
+LNG467,TP53_5,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G4,"Lung, lower lobe",Left,Peripheral,Male,52,Black or African American,Hispanic or Latino,0
+LNG468,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G3,"Lung, middle lobe",Right,Hilar,Female,62,Asian,Not Hispanic or Latino,1
+LNG469,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G2,Main bronchus,Left,Peripheral,Male,72,Black or African American,Hispanic or Latino,0
+LNG470,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G1,Main bronchus,Right,Peripheral,Male,57,White,Not Hispanic or Latino,1
+LNG471,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Central,Male,74,White,Hispanic or Latino,1
+LNG472,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G2,"Lung, upper lobe",Left,Peripheral,Female,43,Other,Not Hispanic or Latino,0
+LNG473,TP53_3,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Female,74,Other,Not Hispanic or Latino,1
+LNG474,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G4,"Lung, upper lobe",Left,Peripheral,Male,54,Black or African American,Not Hispanic or Latino,0
+LNG475,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G1,"Lung, middle lobe",Left,Peripheral,Female,48,Other,Hispanic or Latino,1
+LNG476,TP53_2,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G1,Main bronchus,Left,Hilar,Female,85,Asian,Hispanic or Latino,0
+LNG477,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G2,"Lung, lower lobe",Right,Central,Male,53,Other,Hispanic or Latino,0
+LNG478,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G4,Main bronchus,Right,Central,Female,43,Other,Hispanic or Latino,1
+LNG479,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G2,Main bronchus,Right,Central,Female,52,Asian,Hispanic or Latino,1
+LNG480,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G2,Main bronchus,Left,Peripheral,Male,45,Asian,Not Hispanic or Latino,0
+LNG481,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G4,"Lung, middle lobe",Right,Hilar,Male,84,Asian,Not Hispanic or Latino,1
+LNG482,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,Main bronchus,Left,Peripheral,Female,67,Other,Not Hispanic or Latino,1
+LNG483,TP53_2,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, middle lobe",Left,Peripheral,Male,41,Asian,Hispanic or Latino,0
+LNG484,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G1,Main bronchus,Left,Peripheral,Female,35,Other,Not Hispanic or Latino,1
+LNG485,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, lower lobe",Left,Hilar,Male,36,Other,Not Hispanic or Latino,0
+LNG486,TP53_5,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G4,"Lung, lower lobe",Right,Peripheral,Female,81,White,Not Hispanic or Latino,0
+LNG487,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, middle lobe",Right,Central,Female,61,White,Hispanic or Latino,0
+LNG488,TP53_3,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G2,"Lung, middle lobe",Left,Hilar,Female,53,Other,Not Hispanic or Latino,0
+LNG489,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, lower lobe",Right,Central,Female,38,Black or African American,Hispanic or Latino,1
+LNG490,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G3,"Lung, lower lobe",Left,Central,Female,43,Asian,Not Hispanic or Latino,1
+LNG491,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Male,62,Other,Not Hispanic or Latino,1
+LNG492,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, lower lobe",Right,Central,Female,36,Other,Not Hispanic or Latino,0
+LNG493,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G4,Main bronchus,Right,Peripheral,Male,74,White,Hispanic or Latino,1
+LNG494,TP53_1,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G4,Main bronchus,Right,Peripheral,Female,58,Asian,Not Hispanic or Latino,1
+LNG495,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G1,Main bronchus,Left,Hilar,Female,35,Asian,Not Hispanic or Latino,0
+LNG496,TP53_2,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G4,Main bronchus,Left,Peripheral,Male,44,Other,Not Hispanic or Latino,0
+LNG497,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Male,76,Black or African American,Not Hispanic or Latino,0
+LNG498,TP53_4,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G4,Main bronchus,Left,Peripheral,Female,68,White,Not Hispanic or Latino,1
+LNG499,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G1,Main bronchus,Right,Peripheral,Male,62,White,Not Hispanic or Latino,0
+LNG500,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G3,"Lung, lower lobe",Right,Hilar,Female,50,Asian,Hispanic or Latino,0
+LNG501,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G4,"Lung, middle lobe",Right,Hilar,Male,55,Asian,Not Hispanic or Latino,1
+LNG502,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Female,64,Black or African American,Not Hispanic or Latino,1
+LNG503,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G1,"Lung, upper lobe",Left,Central,Female,73,Black or African American,Not Hispanic or Latino,0
+LNG504,TP53_3,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G1,"Lung, lower lobe",Left,Central,Female,72,White,Hispanic or Latino,1
+LNG505,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, lower lobe",Right,Peripheral,Female,71,White,Not Hispanic or Latino,0
+LNG506,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G3,Main bronchus,Right,Hilar,Female,46,Other,Hispanic or Latino,1
+LNG507,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G1,"Lung, upper lobe",Right,Central,Male,52,White,Hispanic or Latino,1
+LNG508,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G3,Main bronchus,Left,Central,Male,70,Black or African American,Hispanic or Latino,1
+LNG509,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, upper lobe",Right,Peripheral,Male,63,Black or African American,Not Hispanic or Latino,0
+LNG510,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G4,"Lung, upper lobe",Left,Peripheral,Male,40,Asian,Hispanic or Latino,0
+LNG511,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G1,"Lung, middle lobe",Right,Hilar,Male,45,Other,Hispanic or Latino,1
+LNG512,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G3,Main bronchus,Left,Hilar,Female,55,Black or African American,Hispanic or Latino,1
+LNG513,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G2,"Lung, middle lobe",Left,Hilar,Male,57,Black or African American,Hispanic or Latino,1
+LNG514,TP53_3,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G3,"Lung, lower lobe",Left,Hilar,Female,81,White,Not Hispanic or Latino,0
+LNG515,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G2,"Lung, upper lobe",Right,Central,Male,85,Other,Not Hispanic or Latino,0
+LNG516,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G1,Main bronchus,Left,Central,Male,65,Other,Hispanic or Latino,0
+LNG517,TP53_2,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, upper lobe",Left,Hilar,Male,67,Black or African American,Hispanic or Latino,1
+LNG518,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G1,Main bronchus,Left,Peripheral,Female,78,Black or African American,Hispanic or Latino,0
+LNG519,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G1,Main bronchus,Right,Peripheral,Female,85,White,Not Hispanic or Latino,1
+LNG520,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G2,Main bronchus,Left,Peripheral,Female,84,Other,Hispanic or Latino,0
+LNG521,TP53_5,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, middle lobe",Left,Peripheral,Male,35,White,Not Hispanic or Latino,0
+LNG522,TP53_4,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G3,Main bronchus,Right,Peripheral,Male,61,White,Hispanic or Latino,1
+LNG523,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G2,"Lung, middle lobe",Left,Central,Female,58,Black or African American,Not Hispanic or Latino,1
+LNG524,TP53_2,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Male,85,White,Hispanic or Latino,0
+LNG525,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G1,"Lung, upper lobe",Left,Peripheral,Male,41,Asian,Hispanic or Latino,1
+LNG526,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G4,Main bronchus,Left,Peripheral,Male,47,White,Not Hispanic or Latino,1
+LNG527,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G1,"Lung, upper lobe",Right,Hilar,Female,79,Black or African American,Hispanic or Latino,1
+LNG528,TP53_1,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G4,"Lung, lower lobe",Right,Central,Male,66,White,Not Hispanic or Latino,1
+LNG529,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G2,"Lung, lower lobe",Right,Central,Female,70,White,Not Hispanic or Latino,0
+LNG530,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G3,"Lung, middle lobe",Left,Peripheral,Female,50,White,Not Hispanic or Latino,0
+LNG531,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G3,Main bronchus,Right,Central,Male,75,Black or African American,Hispanic or Latino,1
+LNG532,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G4,"Lung, lower lobe",Right,Central,Female,43,Black or African American,Hispanic or Latino,1
+LNG533,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G3,"Lung, middle lobe",Right,Central,Male,42,White,Hispanic or Latino,0
+LNG534,TP53_3,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G3,"Lung, lower lobe",Right,Hilar,Female,83,Other,Hispanic or Latino,1
+LNG535,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G2,"Lung, middle lobe",Left,Central,Female,77,White,Hispanic or Latino,1
+LNG536,TP53_3,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, middle lobe",Right,Peripheral,Female,48,Black or African American,Not Hispanic or Latino,1
+LNG537,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G3,"Lung, upper lobe",Left,Central,Male,49,Other,Not Hispanic or Latino,0
+LNG538,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G4,"Lung, upper lobe",Left,Central,Female,44,White,Hispanic or Latino,0
+LNG539,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G1,Main bronchus,Right,Peripheral,Female,57,Black or African American,Hispanic or Latino,1
+LNG540,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Hilar,Female,57,Asian,Hispanic or Latino,0
+LNG541,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G2,"Lung, upper lobe",Left,Central,Male,58,White,Not Hispanic or Latino,1
+LNG542,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G1,"Lung, middle lobe",Left,Hilar,Male,56,White,Hispanic or Latino,0
+LNG543,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G3,"Lung, lower lobe",Right,Hilar,Female,39,Black or African American,Not Hispanic or Latino,0
+LNG544,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G3,"Lung, middle lobe",Left,Peripheral,Male,80,Black or African American,Not Hispanic or Latino,1
+LNG545,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G2,"Lung, lower lobe",Left,Hilar,Female,77,Other,Not Hispanic or Latino,0
+LNG546,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G1,"Lung, lower lobe",Right,Hilar,Female,80,Other,Hispanic or Latino,0
+LNG547,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G4,"Lung, middle lobe",Left,Hilar,Female,76,Asian,Not Hispanic or Latino,0
+LNG548,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, upper lobe",Left,Central,Male,41,White,Hispanic or Latino,1
+LNG549,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G2,"Lung, upper lobe",Right,Peripheral,Male,37,Asian,Not Hispanic or Latino,1
+LNG550,TP53_5,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G4,"Lung, upper lobe",Left,Hilar,Male,84,Asian,Not Hispanic or Latino,1
+LNG551,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G4,Main bronchus,Left,Hilar,Male,58,Black or African American,Not Hispanic or Latino,1
+LNG552,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,58,Other,Not Hispanic or Latino,0
+LNG553,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Peripheral,Male,58,Asian,Not Hispanic or Latino,1
+LNG554,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G1,"Lung, upper lobe",Left,Peripheral,Male,76,Other,Hispanic or Latino,1
+LNG555,TP53_5,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G1,"Lung, upper lobe",Left,Hilar,Male,65,White,Hispanic or Latino,0
+LNG556,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G4,"Lung, middle lobe",Right,Peripheral,Male,73,Asian,Hispanic or Latino,0
+LNG557,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G1,"Lung, lower lobe",Right,Hilar,Male,77,Asian,Hispanic or Latino,0
+LNG558,TP53_3,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G4,"Lung, upper lobe",Right,Hilar,Male,40,Black or African American,Not Hispanic or Latino,0
+LNG559,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G3,"Lung, middle lobe",Right,Central,Female,84,Black or African American,Hispanic or Latino,0
+LNG560,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G1,"Lung, middle lobe",Right,Hilar,Female,67,White,Not Hispanic or Latino,0
+LNG561,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G1,"Lung, middle lobe",Right,Peripheral,Female,41,Black or African American,Not Hispanic or Latino,1
+LNG562,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, middle lobe",Left,Hilar,Male,67,Other,Not Hispanic or Latino,1
+LNG563,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G1,"Lung, lower lobe",Right,Hilar,Male,53,Black or African American,Not Hispanic or Latino,0
+LNG564,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G2,"Lung, upper lobe",Left,Central,Male,78,White,Not Hispanic or Latino,0
+LNG565,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, lower lobe",Right,Hilar,Male,55,White,Hispanic or Latino,1
+LNG566,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, lower lobe",Left,Hilar,Male,64,White,Not Hispanic or Latino,0
+LNG567,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, middle lobe",Right,Hilar,Male,65,White,Not Hispanic or Latino,1
+LNG568,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G1,Main bronchus,Right,Central,Female,48,Black or African American,Hispanic or Latino,0
+LNG569,TP53_4,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, middle lobe",Right,Hilar,Female,69,Other,Not Hispanic or Latino,0
+LNG570,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G1,Main bronchus,Right,Central,Male,46,Asian,Hispanic or Latino,1
+LNG571,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, lower lobe",Right,Hilar,Male,35,Asian,Hispanic or Latino,1
+LNG572,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G1,"Lung, upper lobe",Right,Central,Male,45,Other,Not Hispanic or Latino,0
+LNG573,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Male,42,Black or African American,Hispanic or Latino,1
+LNG574,TP53_3,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G4,"Lung, lower lobe",Right,Central,Female,50,White,Not Hispanic or Latino,1
+LNG575,TP53_1,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G1,Main bronchus,Left,Hilar,Male,83,Black or African American,Not Hispanic or Latino,0
+LNG576,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G1,"Lung, lower lobe",Right,Central,Male,78,White,Not Hispanic or Latino,0
+LNG577,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G2,Main bronchus,Left,Central,Female,58,Other,Not Hispanic or Latino,1
+LNG578,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G3,"Lung, middle lobe",Right,Hilar,Male,41,Black or African American,Not Hispanic or Latino,0
+LNG579,TP53_5,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G1,"Lung, upper lobe",Left,Central,Female,49,White,Not Hispanic or Latino,0
+LNG580,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G2,"Lung, upper lobe",Right,Central,Female,84,Black or African American,Not Hispanic or Latino,1
+LNG581,TP53_1,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G4,"Lung, lower lobe",Left,Hilar,Male,59,Asian,Not Hispanic or Latino,0
+LNG582,TP53_3,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,40,White,Hispanic or Latino,1
+LNG583,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, lower lobe",Right,Hilar,Male,46,Black or African American,Hispanic or Latino,0
+LNG584,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G2,Main bronchus,Right,Central,Female,42,White,Not Hispanic or Latino,0
+LNG585,TP53_1,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Male,84,Asian,Not Hispanic or Latino,1
+LNG586,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Peripheral,Male,82,White,Not Hispanic or Latino,1
+LNG587,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G3,Main bronchus,Left,Central,Female,67,Other,Hispanic or Latino,0
+LNG588,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, middle lobe",Left,Central,Male,43,Other,Hispanic or Latino,0
+LNG589,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, middle lobe",Left,Hilar,Female,40,Black or African American,Hispanic or Latino,1
+LNG590,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G3,"Lung, middle lobe",Left,Central,Female,71,Other,Hispanic or Latino,1
+LNG591,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G1,Main bronchus,Right,Hilar,Female,78,Black or African American,Not Hispanic or Latino,0
+LNG592,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G2,"Lung, middle lobe",Left,Peripheral,Female,76,Black or African American,Hispanic or Latino,0
+LNG593,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G2,Main bronchus,Right,Hilar,Male,62,Black or African American,Not Hispanic or Latino,1
+LNG594,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G2,"Lung, middle lobe",Left,Hilar,Male,46,White,Not Hispanic or Latino,1
+LNG595,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Peripheral,Female,74,Black or African American,Hispanic or Latino,0
+LNG596,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G1,Main bronchus,Left,Central,Male,76,Other,Not Hispanic or Latino,1
+LNG597,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Central,Male,37,White,Hispanic or Latino,1
+LNG598,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, upper lobe",Left,Hilar,Female,51,Other,Hispanic or Latino,0
+LNG599,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G3,"Lung, upper lobe",Right,Central,Male,67,Black or African American,Hispanic or Latino,0
+LNG600,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G1,"Lung, middle lobe",Right,Central,Male,56,White,Not Hispanic or Latino,1
+LNG601,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, upper lobe",Right,Central,Male,57,Black or African American,Hispanic or Latino,1
+LNG602,TP53_3,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G4,"Lung, lower lobe",Right,Hilar,Male,53,Black or African American,Hispanic or Latino,1
+LNG603,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G2,Main bronchus,Left,Peripheral,Female,54,Asian,Not Hispanic or Latino,1
+LNG604,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, lower lobe",Right,Hilar,Female,59,White,Not Hispanic or Latino,0
+LNG605,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, lower lobe",Left,Central,Male,55,Black or African American,Hispanic or Latino,0
+LNG606,TP53_2,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G2,"Lung, lower lobe",Right,Central,Male,66,Other,Not Hispanic or Latino,0
+LNG607,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G2,"Lung, middle lobe",Left,Central,Female,47,White,Hispanic or Latino,0
+LNG608,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G1,"Lung, middle lobe",Left,Central,Male,52,Black or African American,Not Hispanic or Latino,1
+LNG609,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G4,Main bronchus,Right,Hilar,Male,52,White,Not Hispanic or Latino,0
+LNG610,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G3,Main bronchus,Left,Hilar,Female,83,White,Hispanic or Latino,0
+LNG611,TP53_4,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G1,"Lung, lower lobe",Right,Hilar,Female,82,Asian,Not Hispanic or Latino,1
+LNG612,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G1,Main bronchus,Left,Peripheral,Male,51,Asian,Not Hispanic or Latino,1
+LNG613,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G4,Main bronchus,Right,Hilar,Female,60,Other,Not Hispanic or Latino,0
+LNG614,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G1,"Lung, upper lobe",Left,Hilar,Male,43,Black or African American,Hispanic or Latino,0
+LNG615,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G3,"Lung, upper lobe",Left,Central,Female,35,White,Hispanic or Latino,0
+LNG616,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G4,"Lung, upper lobe",Right,Central,Female,67,Asian,Hispanic or Latino,0
+LNG617,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, middle lobe",Left,Hilar,Male,44,Asian,Hispanic or Latino,1
+LNG618,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G2,Main bronchus,Left,Peripheral,Male,52,Black or African American,Not Hispanic or Latino,0
+LNG619,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G1,"Lung, lower lobe",Right,Peripheral,Female,69,Asian,Not Hispanic or Latino,0
+LNG620,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Male,56,White,Hispanic or Latino,0
+LNG621,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,Main bronchus,Right,Peripheral,Male,46,White,Not Hispanic or Latino,1
+LNG622,TP53_3,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, lower lobe",Right,Hilar,Female,46,White,Not Hispanic or Latino,1
+LNG623,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Hilar,Male,40,Other,Not Hispanic or Latino,0
+LNG624,TP53_3,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, upper lobe",Left,Peripheral,Female,69,Asian,Hispanic or Latino,0
+LNG625,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G4,"Lung, middle lobe",Left,Peripheral,Male,64,White,Hispanic or Latino,0
+LNG626,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G1,Main bronchus,Right,Hilar,Male,72,Other,Not Hispanic or Latino,0
+LNG627,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G3,"Lung, middle lobe",Left,Central,Male,82,White,Not Hispanic or Latino,1
+LNG628,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G2,"Lung, upper lobe",Left,Central,Male,41,Asian,Hispanic or Latino,0
+LNG629,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G2,"Lung, middle lobe",Left,Hilar,Male,47,Asian,Not Hispanic or Latino,1
+LNG630,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Hilar,Male,42,Other,Hispanic or Latino,0
+LNG631,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G3,Main bronchus,Right,Hilar,Male,79,Black or African American,Not Hispanic or Latino,1
+LNG632,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G2,"Lung, middle lobe",Left,Hilar,Male,54,Black or African American,Not Hispanic or Latino,0
+LNG633,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,"Lung, lower lobe",Right,Hilar,Male,62,White,Hispanic or Latino,0
+LNG634,TP53_5,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G3,"Lung, lower lobe",Left,Central,Female,40,Black or African American,Hispanic or Latino,0
+LNG635,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G2,Main bronchus,Left,Peripheral,Male,62,Other,Not Hispanic or Latino,1
+LNG636,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G1,"Lung, upper lobe",Left,Hilar,Female,85,Other,Not Hispanic or Latino,0
+LNG637,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Central,Male,78,White,Hispanic or Latino,0
+LNG638,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G2,Main bronchus,Right,Peripheral,Male,36,Black or African American,Not Hispanic or Latino,0
+LNG639,TP53_4,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G2,Main bronchus,Right,Hilar,Female,78,Asian,Hispanic or Latino,1
+LNG640,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G1,"Lung, middle lobe",Left,Peripheral,Male,58,Other,Hispanic or Latino,1
+LNG641,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, middle lobe",Right,Peripheral,Male,83,Asian,Hispanic or Latino,1
+LNG642,TP53_5,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G4,"Lung, upper lobe",Left,Central,Male,62,Other,Not Hispanic or Latino,0
+LNG643,TP53_4,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G4,Main bronchus,Left,Hilar,Female,75,White,Not Hispanic or Latino,1
+LNG644,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Hilar,Male,66,Asian,Hispanic or Latino,0
+LNG645,TP53_4,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, middle lobe",Right,Central,Male,81,Black or African American,Not Hispanic or Latino,1
+LNG646,TP53_1,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G4,"Lung, upper lobe",Right,Central,Female,51,Black or African American,Hispanic or Latino,0
+LNG647,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G2,Main bronchus,Right,Peripheral,Male,36,Black or African American,Hispanic or Latino,1
+LNG648,TP53_4,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G3,Main bronchus,Right,Central,Female,73,Black or African American,Not Hispanic or Latino,1
+LNG649,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G2,"Lung, middle lobe",Left,Hilar,Female,42,Black or African American,Hispanic or Latino,1
+LNG650,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G4,Main bronchus,Left,Peripheral,Female,57,Other,Not Hispanic or Latino,1
+LNG651,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G2,"Lung, middle lobe",Right,Peripheral,Female,41,Asian,Not Hispanic or Latino,0
+LNG652,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, lower lobe",Left,Hilar,Female,75,White,Hispanic or Latino,0
+LNG653,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G4,Main bronchus,Left,Central,Male,73,Black or African American,Hispanic or Latino,1
+LNG654,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G1,"Lung, middle lobe",Right,Peripheral,Female,59,White,Hispanic or Latino,0
+LNG655,TP53_3,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G2,"Lung, lower lobe",Right,Peripheral,Male,35,White,Hispanic or Latino,1
+LNG656,TP53_3,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G2,"Lung, lower lobe",Left,Peripheral,Female,83,Other,Not Hispanic or Latino,0
+LNG657,TP53_4,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,42,Black or African American,Hispanic or Latino,1
+LNG658,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G2,Main bronchus,Left,Central,Male,78,Black or African American,Hispanic or Latino,1
+LNG659,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G4,"Lung, upper lobe",Right,Peripheral,Male,54,Asian,Hispanic or Latino,1
+LNG660,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G2,"Lung, lower lobe",Right,Central,Male,78,Black or African American,Not Hispanic or Latino,0
+LNG661,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G1,"Lung, upper lobe",Right,Peripheral,Female,53,Other,Not Hispanic or Latino,0
+LNG662,TP53_4,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G1,"Lung, middle lobe",Left,Hilar,Male,45,Asian,Not Hispanic or Latino,0
+LNG663,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G4,"Lung, upper lobe",Left,Hilar,Female,60,Black or African American,Not Hispanic or Latino,0
+LNG664,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G4,"Lung, middle lobe",Right,Hilar,Male,66,Black or African American,Hispanic or Latino,1
+LNG665,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G4,"Lung, lower lobe",Right,Hilar,Female,36,White,Hispanic or Latino,1
+LNG666,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Hilar,Female,73,Black or African American,Hispanic or Latino,1
+LNG667,TP53_5,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G2,"Lung, upper lobe",Left,Hilar,Male,68,Other,Not Hispanic or Latino,0
+LNG668,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G2,Main bronchus,Right,Peripheral,Female,69,Asian,Hispanic or Latino,0
+LNG669,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G1,"Lung, middle lobe",Right,Peripheral,Female,61,Black or African American,Not Hispanic or Latino,1
+LNG670,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G4,Main bronchus,Right,Hilar,Female,49,Black or African American,Not Hispanic or Latino,1
+LNG671,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, lower lobe",Left,Peripheral,Male,61,Black or African American,Not Hispanic or Latino,0
+LNG672,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G3,"Lung, lower lobe",Left,Hilar,Male,59,Black or African American,Not Hispanic or Latino,1
+LNG673,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, middle lobe",Left,Central,Male,80,Other,Hispanic or Latino,1
+LNG674,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G2,"Lung, upper lobe",Right,Central,Male,42,Black or African American,Hispanic or Latino,1
+LNG675,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Female,70,Black or African American,Hispanic or Latino,1
+LNG676,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G1,Main bronchus,Left,Hilar,Male,39,White,Hispanic or Latino,1
+LNG677,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G3,Main bronchus,Right,Central,Female,62,Black or African American,Not Hispanic or Latino,0
+LNG678,TP53_1,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G3,"Lung, upper lobe",Right,Hilar,Female,76,White,Hispanic or Latino,1
+LNG679,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G1,"Lung, upper lobe",Right,Central,Female,85,Other,Hispanic or Latino,1
+LNG680,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G2,Main bronchus,Right,Central,Female,43,Other,Not Hispanic or Latino,1
+LNG681,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G1,"Lung, lower lobe",Right,Hilar,Male,75,Black or African American,Not Hispanic or Latino,1
+LNG682,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G1,"Lung, middle lobe",Left,Central,Male,46,Asian,Hispanic or Latino,1
+LNG683,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G4,"Lung, middle lobe",Left,Central,Female,58,Asian,Not Hispanic or Latino,0
+LNG684,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G3,"Lung, upper lobe",Left,Peripheral,Female,85,White,Not Hispanic or Latino,1
+LNG685,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G2,Main bronchus,Left,Hilar,Female,56,White,Not Hispanic or Latino,1
+LNG686,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G2,"Lung, upper lobe",Right,Peripheral,Male,62,White,Hispanic or Latino,1
+LNG687,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G1,"Lung, upper lobe",Right,Hilar,Female,79,White,Not Hispanic or Latino,1
+LNG688,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G1,"Lung, upper lobe",Right,Central,Female,46,Asian,Hispanic or Latino,0
+LNG689,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, lower lobe",Left,Central,Female,54,Black or African American,Hispanic or Latino,1
+LNG690,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G2,"Lung, upper lobe",Right,Central,Female,68,Black or African American,Not Hispanic or Latino,0
+LNG691,TP53_1,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G4,"Lung, upper lobe",Right,Central,Male,55,Asian,Hispanic or Latino,0
+LNG692,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G2,"Lung, upper lobe",Left,Hilar,Male,79,White,Not Hispanic or Latino,0
+LNG693,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Central,Female,53,Asian,Not Hispanic or Latino,0
+LNG694,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G4,"Lung, upper lobe",Right,Hilar,Female,72,White,Hispanic or Latino,0
+LNG695,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G1,"Lung, upper lobe",Left,Central,Male,41,Black or African American,Not Hispanic or Latino,0
+LNG696,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G1,"Lung, upper lobe",Right,Peripheral,Male,85,White,Hispanic or Latino,0
+LNG697,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G2,"Lung, upper lobe",Left,Peripheral,Female,67,Asian,Hispanic or Latino,0
+LNG698,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G4,"Lung, lower lobe",Left,Hilar,Female,69,Other,Not Hispanic or Latino,0
+LNG699,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, middle lobe",Right,Peripheral,Female,49,White,Hispanic or Latino,1
+LNG700,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G3,Main bronchus,Left,Peripheral,Male,63,Asian,Hispanic or Latino,0
+LNG701,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G1,"Lung, middle lobe",Right,Peripheral,Female,59,Asian,Not Hispanic or Latino,0
+LNG702,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G4,"Lung, middle lobe",Left,Peripheral,Female,49,White,Not Hispanic or Latino,1
+LNG703,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G3,Main bronchus,Left,Central,Male,36,White,Hispanic or Latino,0
+LNG704,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G2,"Lung, lower lobe",Right,Central,Male,48,White,Not Hispanic or Latino,1
+LNG705,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G1,"Lung, upper lobe",Left,Peripheral,Male,68,Other,Not Hispanic or Latino,0
+LNG706,TP53_2,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Male,57,Other,Hispanic or Latino,0
+LNG707,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G3,Main bronchus,Left,Peripheral,Male,84,White,Hispanic or Latino,0
+LNG708,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G2,"Lung, middle lobe",Left,Peripheral,Male,64,Asian,Hispanic or Latino,0
+LNG709,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G3,Main bronchus,Left,Central,Male,58,White,Not Hispanic or Latino,1
+LNG710,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G4,"Lung, middle lobe",Right,Hilar,Male,51,Black or African American,Hispanic or Latino,1
+LNG711,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, middle lobe",Right,Central,Male,54,Other,Not Hispanic or Latino,1
+LNG712,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G1,"Lung, upper lobe",Left,Peripheral,Male,74,Other,Hispanic or Latino,0
+LNG713,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G3,"Lung, middle lobe",Left,Hilar,Male,63,Other,Not Hispanic or Latino,1
+LNG714,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G2,"Lung, middle lobe",Left,Hilar,Female,75,Black or African American,Hispanic or Latino,0
+LNG715,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, middle lobe",Left,Peripheral,Female,70,White,Not Hispanic or Latino,1
+LNG716,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G4,Main bronchus,Left,Central,Male,41,Black or African American,Hispanic or Latino,0
+LNG717,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G1,Main bronchus,Right,Peripheral,Male,82,Asian,Hispanic or Latino,1
+LNG718,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G3,"Lung, lower lobe",Right,Peripheral,Female,42,White,Hispanic or Latino,0
+LNG719,TP53_5,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, middle lobe",Right,Peripheral,Female,46,Black or African American,Hispanic or Latino,1
+LNG720,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G2,"Lung, lower lobe",Left,Hilar,Male,66,Other,Hispanic or Latino,0
+LNG721,TP53_5,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G2,Main bronchus,Left,Hilar,Male,49,Other,Not Hispanic or Latino,1
+LNG722,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,Main bronchus,Right,Central,Female,81,Other,Not Hispanic or Latino,1
+LNG723,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G2,Main bronchus,Left,Central,Female,74,Asian,Hispanic or Latino,1
+LNG724,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G2,"Lung, upper lobe",Left,Central,Female,37,Black or African American,Not Hispanic or Latino,0
+LNG725,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G2,"Lung, upper lobe",Right,Peripheral,Male,72,Asian,Not Hispanic or Latino,0
+LNG726,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G4,"Lung, middle lobe",Right,Peripheral,Female,84,Other,Not Hispanic or Latino,0
+LNG727,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G2,Main bronchus,Right,Peripheral,Female,84,Other,Hispanic or Latino,0
+LNG728,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Central,Female,61,Asian,Not Hispanic or Latino,0
+LNG729,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,38,Other,Hispanic or Latino,0
+LNG730,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G2,Main bronchus,Left,Central,Female,35,Black or African American,Not Hispanic or Latino,1
+LNG731,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, upper lobe",Right,Central,Male,60,Black or African American,Not Hispanic or Latino,1
+LNG732,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Central,Male,79,Other,Hispanic or Latino,1
+LNG733,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G1,"Lung, middle lobe",Left,Hilar,Female,79,Other,Hispanic or Latino,0
+LNG734,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, lower lobe",Right,Hilar,Male,81,Asian,Hispanic or Latino,0
+LNG735,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G3,Main bronchus,Left,Hilar,Male,66,White,Hispanic or Latino,0
+LNG736,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G4,Main bronchus,Left,Central,Male,82,Other,Hispanic or Latino,0
+LNG737,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G4,"Lung, middle lobe",Right,Peripheral,Female,69,Asian,Not Hispanic or Latino,0
+LNG738,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G4,"Lung, lower lobe",Left,Hilar,Female,36,Asian,Hispanic or Latino,0
+LNG739,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,Main bronchus,Left,Hilar,Female,45,Black or African American,Not Hispanic or Latino,1
+LNG740,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G4,"Lung, lower lobe",Right,Central,Male,47,Black or African American,Hispanic or Latino,1
+LNG741,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G4,Main bronchus,Right,Peripheral,Male,39,Black or African American,Not Hispanic or Latino,1
+LNG742,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, middle lobe",Left,Central,Female,68,Black or African American,Hispanic or Latino,1
+LNG743,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G2,"Lung, middle lobe",Right,Hilar,Male,68,Asian,Not Hispanic or Latino,1
+LNG744,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G4,"Lung, middle lobe",Left,Central,Male,47,Black or African American,Not Hispanic or Latino,0
+LNG745,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G2,"Lung, middle lobe",Right,Hilar,Male,39,Other,Hispanic or Latino,0
+LNG746,TP53_4,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G1,"Lung, upper lobe",Left,Central,Female,64,Black or African American,Not Hispanic or Latino,1
+LNG747,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, upper lobe",Left,Peripheral,Male,41,Asian,Not Hispanic or Latino,1
+LNG748,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G2,"Lung, lower lobe",Left,Hilar,Female,55,Asian,Not Hispanic or Latino,0
+LNG749,TP53_2,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G1,"Lung, upper lobe",Right,Central,Female,77,Asian,Not Hispanic or Latino,1
+LNG750,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G1,"Lung, upper lobe",Left,Peripheral,Male,46,Asian,Hispanic or Latino,0
+LNG751,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G3,Main bronchus,Right,Central,Female,51,Black or African American,Hispanic or Latino,0
+LNG752,TP53_4,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G4,Main bronchus,Right,Peripheral,Female,70,Asian,Not Hispanic or Latino,1
+LNG753,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Peripheral,Male,62,Other,Not Hispanic or Latino,1
+LNG754,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G4,Main bronchus,Left,Hilar,Male,78,Other,Hispanic or Latino,0
+LNG755,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G2,"Lung, upper lobe",Left,Peripheral,Male,53,Asian,Not Hispanic or Latino,1
+LNG756,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G1,"Lung, upper lobe",Left,Central,Female,62,Black or African American,Not Hispanic or Latino,1
+LNG757,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G4,"Lung, lower lobe",Right,Hilar,Male,60,Other,Not Hispanic or Latino,0
+LNG758,TP53_5,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G3,"Lung, upper lobe",Right,Peripheral,Female,73,Other,Hispanic or Latino,1
+LNG759,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, lower lobe",Left,Central,Female,83,Black or African American,Not Hispanic or Latino,1
+LNG760,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, middle lobe",Right,Peripheral,Male,62,Black or African American,Not Hispanic or Latino,1
+LNG761,TP53_1,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,"Lung, upper lobe",Right,Hilar,Male,41,Black or African American,Hispanic or Latino,0
+LNG762,TP53_5,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, upper lobe",Right,Central,Male,65,Black or African American,Hispanic or Latino,1
+LNG763,TP53_1,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G4,Main bronchus,Left,Central,Female,35,Asian,Not Hispanic or Latino,0
+LNG764,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G4,"Lung, lower lobe",Left,Peripheral,Male,59,Black or African American,Not Hispanic or Latino,1
+LNG765,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G1,"Lung, middle lobe",Left,Hilar,Female,65,White,Hispanic or Latino,1
+LNG766,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G4,"Lung, lower lobe",Right,Hilar,Female,62,Asian,Hispanic or Latino,1
+LNG767,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, upper lobe",Left,Peripheral,Male,66,Other,Hispanic or Latino,0
+LNG768,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G3,"Lung, middle lobe",Left,Central,Female,57,White,Not Hispanic or Latino,0
+LNG769,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, lower lobe",Left,Peripheral,Male,62,Asian,Hispanic or Latino,0
+LNG770,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G4,"Lung, upper lobe",Right,Hilar,Male,74,Black or African American,Hispanic or Latino,1
+LNG771,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G2,"Lung, upper lobe",Right,Central,Female,55,Asian,Hispanic or Latino,0
+LNG772,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G1,Main bronchus,Left,Central,Male,70,Black or African American,Not Hispanic or Latino,1
+LNG773,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G2,Main bronchus,Right,Central,Male,76,White,Hispanic or Latino,1
+LNG774,TP53_3,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G2,"Lung, lower lobe",Left,Peripheral,Female,51,Asian,Not Hispanic or Latino,0
+LNG775,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G3,"Lung, lower lobe",Left,Central,Male,66,Black or African American,Not Hispanic or Latino,0
+LNG776,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G3,Main bronchus,Right,Hilar,Female,80,Black or African American,Hispanic or Latino,1
+LNG777,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G1,"Lung, middle lobe",Right,Hilar,Male,76,White,Not Hispanic or Latino,1
+LNG778,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G4,"Lung, upper lobe",Right,Peripheral,Female,64,Other,Hispanic or Latino,0
+LNG779,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G4,Main bronchus,Right,Hilar,Female,62,White,Hispanic or Latino,0
+LNG780,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G3,Main bronchus,Right,Hilar,Female,58,Black or African American,Hispanic or Latino,1
+LNG781,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G1,"Lung, upper lobe",Left,Peripheral,Female,56,Asian,Not Hispanic or Latino,1
+LNG782,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G2,"Lung, middle lobe",Left,Hilar,Male,71,Black or African American,Not Hispanic or Latino,1
+LNG783,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G1,"Lung, upper lobe",Left,Hilar,Female,59,Black or African American,Not Hispanic or Latino,1
+LNG784,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G2,Main bronchus,Left,Peripheral,Male,82,Black or African American,Hispanic or Latino,1
+LNG785,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G1,"Lung, upper lobe",Left,Hilar,Male,72,Other,Hispanic or Latino,0
+LNG786,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G3,"Lung, middle lobe",Right,Peripheral,Male,77,Black or African American,Hispanic or Latino,0
+LNG787,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G3,"Lung, middle lobe",Right,Central,Male,74,Other,Not Hispanic or Latino,1
+LNG788,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G1,Main bronchus,Right,Hilar,Female,73,White,Hispanic or Latino,1
+LNG789,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G2,Main bronchus,Right,Hilar,Male,81,Black or African American,Hispanic or Latino,0
+LNG790,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, upper lobe",Left,Central,Male,46,Other,Not Hispanic or Latino,0
+LNG791,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G2,Main bronchus,Left,Hilar,Male,47,Asian,Not Hispanic or Latino,0
+LNG792,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,Main bronchus,Left,Peripheral,Male,82,White,Hispanic or Latino,1
+LNG793,TP53_5,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G4,Main bronchus,Right,Peripheral,Male,59,Asian,Hispanic or Latino,0
+LNG794,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G4,"Lung, middle lobe",Left,Central,Male,35,Asian,Hispanic or Latino,1
+LNG795,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G2,"Lung, middle lobe",Right,Peripheral,Male,79,Black or African American,Not Hispanic or Latino,1
+LNG796,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, upper lobe",Right,Peripheral,Female,44,Other,Hispanic or Latino,1
+LNG797,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G2,"Lung, middle lobe",Right,Hilar,Female,74,White,Not Hispanic or Latino,0
+LNG798,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G2,"Lung, upper lobe",Right,Hilar,Male,60,Asian,Not Hispanic or Latino,0
+LNG799,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G2,"Lung, lower lobe",Right,Peripheral,Male,51,White,Hispanic or Latino,0
+LNG800,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G4,"Lung, lower lobe",Left,Hilar,Female,48,White,Not Hispanic or Latino,0
+LNG801,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G3,"Lung, lower lobe",Right,Hilar,Male,37,Black or African American,Not Hispanic or Latino,0
+LNG802,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G1,"Lung, lower lobe",Right,Hilar,Female,54,Black or African American,Not Hispanic or Latino,1
+LNG803,TP53_3,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, upper lobe",Left,Hilar,Male,52,Asian,Not Hispanic or Latino,0
+LNG804,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G4,"Lung, lower lobe",Right,Peripheral,Male,77,Asian,Not Hispanic or Latino,0
+LNG805,TP53_3,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G4,"Lung, upper lobe",Left,Peripheral,Female,46,Black or African American,Not Hispanic or Latino,1
+LNG806,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G2,"Lung, lower lobe",Left,Central,Female,45,Other,Hispanic or Latino,1
+LNG807,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G3,Main bronchus,Right,Peripheral,Female,74,White,Not Hispanic or Latino,0
+LNG808,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G3,Main bronchus,Left,Peripheral,Male,46,Other,Hispanic or Latino,0
+LNG809,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G4,"Lung, lower lobe",Left,Central,Male,66,Asian,Hispanic or Latino,0
+LNG810,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G1,"Lung, lower lobe",Left,Hilar,Female,74,White,Hispanic or Latino,0
+LNG811,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G3,"Lung, lower lobe",Left,Central,Female,44,White,Not Hispanic or Latino,0
+LNG812,TP53_5,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G4,Main bronchus,Right,Central,Female,51,Asian,Not Hispanic or Latino,1
+LNG813,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G2,Main bronchus,Left,Peripheral,Male,49,Other,Not Hispanic or Latino,1
+LNG814,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G4,"Lung, lower lobe",Left,Hilar,Female,82,Asian,Not Hispanic or Latino,1
+LNG815,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G1,"Lung, lower lobe",Right,Peripheral,Female,83,Other,Hispanic or Latino,1
+LNG816,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Male,38,Asian,Hispanic or Latino,1
+LNG817,TP53_5,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G3,"Lung, upper lobe",Right,Central,Female,79,White,Not Hispanic or Latino,0
+LNG818,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G1,"Lung, middle lobe",Right,Peripheral,Female,81,White,Not Hispanic or Latino,0
+LNG819,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G3,Main bronchus,Right,Central,Male,75,Other,Hispanic or Latino,0
+LNG820,TP53_4,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G2,Main bronchus,Left,Peripheral,Male,73,White,Not Hispanic or Latino,1
+LNG821,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G2,"Lung, upper lobe",Left,Central,Female,42,Asian,Hispanic or Latino,0
+LNG822,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Male,46,Black or African American,Hispanic or Latino,0
+LNG823,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G2,Main bronchus,Right,Hilar,Male,42,Asian,Not Hispanic or Latino,0
+LNG824,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Peripheral,Male,74,White,Not Hispanic or Latino,1
+LNG825,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G2,"Lung, upper lobe",Left,Hilar,Male,75,Other,Hispanic or Latino,0
+LNG826,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G1,"Lung, lower lobe",Right,Central,Female,53,Other,Not Hispanic or Latino,1
+LNG827,TP53_5,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G1,"Lung, upper lobe",Right,Central,Female,66,White,Not Hispanic or Latino,0
+LNG828,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G2,Main bronchus,Left,Central,Female,46,White,Not Hispanic or Latino,0
+LNG829,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G1,Main bronchus,Left,Peripheral,Male,67,Black or African American,Hispanic or Latino,0
+LNG830,TP53_2,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G3,Main bronchus,Left,Hilar,Female,37,Black or African American,Not Hispanic or Latino,0
+LNG831,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,Main bronchus,Left,Hilar,Male,75,Black or African American,Hispanic or Latino,0
+LNG832,TP53_3,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G4,"Lung, upper lobe",Right,Peripheral,Female,50,Other,Hispanic or Latino,1
+LNG833,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, upper lobe",Left,Central,Male,52,Asian,Hispanic or Latino,1
+LNG834,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G1,"Lung, lower lobe",Right,Hilar,Male,38,Black or African American,Hispanic or Latino,0
+LNG835,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G3,"Lung, upper lobe",Left,Peripheral,Female,65,Other,Hispanic or Latino,1
+LNG836,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G3,"Lung, middle lobe",Left,Hilar,Female,83,Asian,Hispanic or Latino,1
+LNG837,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Peripheral,Male,71,White,Not Hispanic or Latino,0
+LNG838,TP53_3,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Male,84,Other,Not Hispanic or Latino,0
+LNG839,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G2,Main bronchus,Left,Hilar,Male,42,Black or African American,Hispanic or Latino,1
+LNG840,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G4,"Lung, upper lobe",Left,Central,Female,38,Other,Not Hispanic or Latino,0
+LNG841,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,Main bronchus,Left,Central,Male,54,Other,Not Hispanic or Latino,1
+LNG842,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, lower lobe",Left,Peripheral,Female,70,White,Hispanic or Latino,0
+LNG843,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G3,"Lung, lower lobe",Left,Central,Female,50,Black or African American,Hispanic or Latino,0
+LNG844,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,"Lung, lower lobe",Right,Peripheral,Male,43,Black or African American,Not Hispanic or Latino,1
+LNG845,TP53_4,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, upper lobe",Right,Hilar,Male,66,Black or African American,Hispanic or Latino,1
+LNG846,TP53_5,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G4,"Lung, lower lobe",Right,Hilar,Male,76,White,Not Hispanic or Latino,0
+LNG847,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G2,Main bronchus,Left,Central,Male,78,Black or African American,Hispanic or Latino,0
+LNG848,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G4,"Lung, upper lobe",Right,Central,Female,53,Asian,Hispanic or Latino,0
+LNG849,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G3,Main bronchus,Left,Central,Male,51,White,Not Hispanic or Latino,0
+LNG850,TP53_4,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G2,Main bronchus,Left,Hilar,Female,38,Other,Not Hispanic or Latino,1
+LNG851,TP53_1,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G2,"Lung, upper lobe",Left,Central,Female,81,White,Not Hispanic or Latino,0
+LNG852,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G1,"Lung, upper lobe",Left,Hilar,Male,70,White,Hispanic or Latino,1
+LNG853,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G3,"Lung, lower lobe",Left,Central,Male,75,Other,Hispanic or Latino,0
+LNG854,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G2,"Lung, middle lobe",Left,Central,Female,58,Other,Hispanic or Latino,1
+LNG855,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Male,72,Asian,Hispanic or Latino,1
+LNG856,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Small cell lung carcinoma,G1,Main bronchus,Right,Hilar,Male,47,Black or African American,Hispanic or Latino,0
+LNG857,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Peripheral,Female,47,Other,Hispanic or Latino,1
+LNG858,TP53_2,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G1,"Lung, upper lobe",Left,Hilar,Female,66,White,Not Hispanic or Latino,1
+LNG859,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G1,"Lung, upper lobe",Left,Hilar,Male,64,White,Not Hispanic or Latino,1
+LNG860,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G1,"Lung, middle lobe",Right,Peripheral,Male,85,Other,Hispanic or Latino,1
+LNG861,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G1,"Lung, upper lobe",Right,Hilar,Male,47,White,Hispanic or Latino,1
+LNG862,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Hilar,Female,58,Asian,Hispanic or Latino,0
+LNG863,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G2,"Lung, upper lobe",Left,Peripheral,Male,67,Other,Not Hispanic or Latino,0
+LNG864,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, middle lobe",Left,Hilar,Male,58,White,Hispanic or Latino,0
+LNG865,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G3,"Lung, upper lobe",Right,Central,Female,53,Other,Hispanic or Latino,0
+LNG866,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G4,"Lung, lower lobe",Right,Hilar,Female,80,Asian,Not Hispanic or Latino,1
+LNG867,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G3,"Lung, middle lobe",Left,Hilar,Female,50,Asian,Not Hispanic or Latino,0
+LNG868,TP53_3,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G3,"Lung, lower lobe",Left,Central,Male,69,White,Hispanic or Latino,0
+LNG869,TP53_4,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Peripheral,Male,76,Asian,Hispanic or Latino,1
+LNG870,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G4,"Lung, middle lobe",Right,Hilar,Male,66,Asian,Not Hispanic or Latino,0
+LNG871,TP53_3,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G1,"Lung, lower lobe",Left,Peripheral,Male,71,Asian,Not Hispanic or Latino,1
+LNG872,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G1,Main bronchus,Right,Central,Male,78,White,Hispanic or Latino,1
+LNG873,TP53_2,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G4,Main bronchus,Right,Hilar,Female,72,Black or African American,Hispanic or Latino,0
+LNG874,TP53_3,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Squamous cell carcinoma,G4,Main bronchus,Right,Central,Female,66,Black or African American,Hispanic or Latino,0
+LNG875,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G1,"Lung, middle lobe",Right,Hilar,Male,80,Asian,Hispanic or Latino,1
+LNG876,TP53_5,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G3,"Lung, middle lobe",Right,Hilar,Male,57,Other,Hispanic or Latino,1
+LNG877,TP53_3,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G4,"Lung, upper lobe",Left,Central,Female,85,Asian,Not Hispanic or Latino,1
+LNG878,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G3,Main bronchus,Right,Central,Male,79,Other,Not Hispanic or Latino,1
+LNG879,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G1,Main bronchus,Left,Peripheral,Female,81,Black or African American,Hispanic or Latino,0
+LNG880,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Female,63,Asian,Not Hispanic or Latino,0
+LNG881,TP53_3,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G1,"Lung, lower lobe",Right,Central,Male,48,Black or African American,Not Hispanic or Latino,1
+LNG882,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Central,Female,46,White,Not Hispanic or Latino,0
+LNG883,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Small cell lung carcinoma,G3,Main bronchus,Left,Hilar,Male,51,White,Not Hispanic or Latino,1
+LNG884,TP53_5,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G1,"Lung, upper lobe",Left,Central,Female,35,Black or African American,Not Hispanic or Latino,1
+LNG885,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G2,"Lung, upper lobe",Left,Peripheral,Female,71,Other,Not Hispanic or Latino,0
+LNG886,TP53_3,EGFR_5,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, lower lobe",Left,Central,Male,72,Asian,Hispanic or Latino,0
+LNG887,TP53_3,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G4,"Lung, lower lobe",Right,Peripheral,Male,65,Black or African American,Hispanic or Latino,0
+LNG888,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G3,"Lung, lower lobe",Left,Hilar,Female,50,Asian,Not Hispanic or Latino,0
+LNG889,TP53_3,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Central,Male,39,Black or African American,Not Hispanic or Latino,0
+LNG890,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G2,"Lung, lower lobe",Right,Peripheral,Female,83,Other,Hispanic or Latino,0
+LNG891,TP53_4,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, upper lobe",Left,Central,Male,84,White,Hispanic or Latino,1
+LNG892,TP53_2,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G1,Main bronchus,Left,Hilar,Female,44,Other,Hispanic or Latino,1
+LNG893,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Adenocarcinoma,G3,Main bronchus,Right,Hilar,Male,64,Other,Hispanic or Latino,0
+LNG894,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G2,Main bronchus,Right,Central,Female,63,Black or African American,Not Hispanic or Latino,1
+LNG895,TP53_5,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G4,Main bronchus,Left,Central,Male,67,Black or African American,Hispanic or Latino,0
+LNG896,TP53_3,EGFR_1,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G3,Main bronchus,Left,Hilar,Male,67,White,Hispanic or Latino,1
+LNG897,TP53_3,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G1,"Lung, lower lobe",Left,Hilar,Male,67,White,Not Hispanic or Latino,0
+LNG898,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G1,"Lung, lower lobe",Right,Central,Male,72,Asian,Hispanic or Latino,1
+LNG899,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G4,"Lung, upper lobe",Left,Hilar,Female,62,Asian,Not Hispanic or Latino,1
+LNG900,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G2,"Lung, upper lobe",Right,Peripheral,Female,40,Other,Not Hispanic or Latino,1
+LNG901,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G4,"Lung, lower lobe",Left,Central,Male,64,Asian,Not Hispanic or Latino,1
+LNG902,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, lower lobe",Left,Peripheral,Male,71,Black or African American,Hispanic or Latino,0
+LNG903,TP53_2,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, middle lobe",Left,Hilar,Female,60,Asian,Not Hispanic or Latino,1
+LNG904,TP53_2,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G4,Main bronchus,Left,Peripheral,Male,48,Other,Not Hispanic or Latino,1
+LNG905,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G4,Main bronchus,Left,Peripheral,Male,81,Asian,Not Hispanic or Latino,0
+LNG906,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G1,"Lung, lower lobe",Right,Hilar,Male,62,Other,Not Hispanic or Latino,0
+LNG907,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G2,"Lung, middle lobe",Left,Central,Male,37,White,Not Hispanic or Latino,0
+LNG908,TP53_1,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G2,Main bronchus,Left,Peripheral,Female,83,Black or African American,Not Hispanic or Latino,0
+LNG909,TP53_4,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G1,Main bronchus,Right,Central,Female,81,Other,Hispanic or Latino,0
+LNG910,TP53_1,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G2,"Lung, lower lobe",Right,Hilar,Female,43,Asian,Not Hispanic or Latino,1
+LNG911,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, lower lobe",Left,Central,Male,57,Other,Not Hispanic or Latino,1
+LNG912,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Male,59,Asian,Not Hispanic or Latino,1
+LNG913,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, middle lobe",Left,Hilar,Male,75,Black or African American,Hispanic or Latino,1
+LNG914,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G2,Main bronchus,Right,Peripheral,Female,84,White,Not Hispanic or Latino,1
+LNG915,TP53_2,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Adenocarcinoma,G2,"Lung, lower lobe",Left,Peripheral,Male,41,Black or African American,Hispanic or Latino,1
+LNG916,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Male,77,Other,Hispanic or Latino,1
+LNG917,TP53_4,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G1,"Lung, middle lobe",Left,Central,Female,53,Other,Not Hispanic or Latino,0
+LNG918,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G3,"Lung, upper lobe",Right,Central,Female,51,White,Not Hispanic or Latino,1
+LNG919,TP53_2,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G3,Main bronchus,Left,Central,Female,59,Asian,Not Hispanic or Latino,0
+LNG920,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,"Lung, upper lobe",Right,Peripheral,Female,39,Black or African American,Not Hispanic or Latino,0
+LNG921,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_2,Squamous cell carcinoma,G1,Main bronchus,Left,Central,Female,59,Asian,Hispanic or Latino,1
+LNG922,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G1,"Lung, middle lobe",Left,Hilar,Male,78,White,Not Hispanic or Latino,1
+LNG923,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G1,"Lung, lower lobe",Left,Peripheral,Female,71,Asian,Hispanic or Latino,1
+LNG924,TP53_1,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G4,Main bronchus,Right,Peripheral,Female,35,Black or African American,Hispanic or Latino,0
+LNG925,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_5,Small cell lung carcinoma,G2,Main bronchus,Left,Central,Male,41,Other,Not Hispanic or Latino,1
+LNG926,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G4,"Lung, middle lobe",Left,Hilar,Male,45,Asian,Not Hispanic or Latino,0
+LNG927,TP53_3,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G3,Main bronchus,Right,Central,Male,55,Black or African American,Hispanic or Latino,1
+LNG928,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G3,Main bronchus,Left,Hilar,Male,71,Black or African American,Not Hispanic or Latino,0
+LNG929,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G2,Main bronchus,Right,Peripheral,Female,73,White,Hispanic or Latino,0
+LNG930,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G1,"Lung, middle lobe",Right,Hilar,Female,67,White,Hispanic or Latino,1
+LNG931,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G3,Main bronchus,Right,Peripheral,Male,66,Asian,Hispanic or Latino,0
+LNG932,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G4,Main bronchus,Left,Hilar,Female,46,Other,Hispanic or Latino,0
+LNG933,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Peripheral,Female,81,White,Hispanic or Latino,1
+LNG934,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Adenocarcinoma,G1,"Lung, upper lobe",Right,Peripheral,Female,59,Black or African American,Not Hispanic or Latino,1
+LNG935,TP53_2,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G2,Main bronchus,Right,Hilar,Female,60,Other,Hispanic or Latino,0
+LNG936,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G4,Main bronchus,Right,Hilar,Female,49,Other,Not Hispanic or Latino,0
+LNG937,TP53_5,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G2,Main bronchus,Left,Hilar,Female,68,White,Not Hispanic or Latino,0
+LNG938,TP53_4,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G3,Main bronchus,Left,Hilar,Male,49,White,Hispanic or Latino,1
+LNG939,TP53_1,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Small cell lung carcinoma,G4,"Lung, lower lobe",Right,Hilar,Female,51,White,Not Hispanic or Latino,1
+LNG940,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Large cell carcinoma,G3,"Lung, upper lobe",Right,Central,Female,51,Asian,Hispanic or Latino,0
+LNG941,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G1,"Lung, lower lobe",Left,Peripheral,Male,53,Asian,Not Hispanic or Latino,0
+LNG942,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G4,"Lung, middle lobe",Right,Peripheral,Female,49,Other,Not Hispanic or Latino,0
+LNG943,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G1,Main bronchus,Left,Central,Female,70,Other,Hispanic or Latino,0
+LNG944,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Small cell lung carcinoma,G2,Main bronchus,Left,Central,Female,61,Other,Not Hispanic or Latino,0
+LNG945,TP53_2,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G2,Main bronchus,Right,Peripheral,Male,59,White,Hispanic or Latino,1
+LNG946,TP53_5,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G1,"Lung, middle lobe",Right,Central,Female,45,Black or African American,Not Hispanic or Latino,0
+LNG947,TP53_4,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G1,Main bronchus,Right,Central,Female,46,Other,Not Hispanic or Latino,0
+LNG948,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G2,"Lung, lower lobe",Left,Peripheral,Female,65,Other,Hispanic or Latino,0
+LNG949,TP53_1,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G2,Main bronchus,Left,Peripheral,Male,75,Other,Hispanic or Latino,1
+LNG950,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Adenocarcinoma,G3,"Lung, middle lobe",Left,Hilar,Female,48,Asian,Not Hispanic or Latino,1
+LNG951,TP53_4,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G1,"Lung, upper lobe",Left,Hilar,Female,41,Asian,Hispanic or Latino,1
+LNG952,TP53_1,EGFR_3,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G3,"Lung, middle lobe",Left,Peripheral,Male,58,Other,Hispanic or Latino,1
+LNG953,TP53_1,EGFR_3,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G3,"Lung, middle lobe",Right,Hilar,Female,35,Asian,Not Hispanic or Latino,0
+LNG954,TP53_5,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G1,"Lung, upper lobe",Right,Hilar,Male,61,Other,Not Hispanic or Latino,1
+LNG955,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G1,"Lung, middle lobe",Right,Central,Female,79,White,Not Hispanic or Latino,0
+LNG956,TP53_2,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G1,"Lung, upper lobe",Right,Hilar,Male,61,Black or African American,Not Hispanic or Latino,1
+LNG957,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G3,"Lung, upper lobe",Right,Hilar,Female,53,Asian,Hispanic or Latino,0
+LNG958,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Squamous cell carcinoma,G3,"Lung, middle lobe",Right,Hilar,Male,49,Black or African American,Hispanic or Latino,0
+LNG959,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, upper lobe",Right,Central,Male,45,Asian,Not Hispanic or Latino,0
+LNG960,TP53_4,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G4,"Lung, upper lobe",Left,Hilar,Male,46,Asian,Hispanic or Latino,0
+LNG961,TP53_5,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G4,"Lung, lower lobe",Left,Peripheral,Male,61,Black or African American,Hispanic or Latino,0
+LNG962,TP53_5,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Squamous cell carcinoma,G2,"Lung, upper lobe",Right,Hilar,Female,71,White,Hispanic or Latino,0
+LNG963,TP53_4,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G3,"Lung, upper lobe",Right,Central,Male,41,Asian,Hispanic or Latino,1
+LNG964,TP53_3,EGFR_1,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Large cell carcinoma,G3,Main bronchus,Right,Peripheral,Male,51,Black or African American,Hispanic or Latino,1
+LNG965,TP53_4,EGFR_3,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G4,Main bronchus,Right,Peripheral,Male,61,Other,Hispanic or Latino,0
+LNG966,TP53_5,EGFR_1,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Adenocarcinoma,G3,"Lung, lower lobe",Right,Central,Male,72,Other,Not Hispanic or Latino,1
+LNG967,TP53_5,EGFR_4,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Small cell lung carcinoma,G3,Main bronchus,Left,Central,Female,59,Other,Not Hispanic or Latino,1
+LNG968,TP53_2,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G1,"Lung, upper lobe",Right,Central,Female,57,Other,Hispanic or Latino,1
+LNG969,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Large cell carcinoma,G4,"Lung, lower lobe",Left,Peripheral,Male,69,Asian,Hispanic or Latino,0
+LNG970,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G3,"Lung, upper lobe",Right,Central,Male,56,Black or African American,Hispanic or Latino,0
+LNG971,TP53_5,EGFR_5,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G4,"Lung, middle lobe",Left,Peripheral,Female,60,Asian,Hispanic or Latino,0
+LNG972,TP53_1,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G4,Main bronchus,Left,Hilar,Male,74,White,Not Hispanic or Latino,0
+LNG973,TP53_1,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G3,"Lung, upper lobe",Left,Hilar,Male,50,Black or African American,Not Hispanic or Latino,0
+LNG974,TP53_4,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Large cell carcinoma,G4,"Lung, middle lobe",Right,Peripheral,Male,40,Asian,Not Hispanic or Latino,1
+LNG975,TP53_4,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Adenocarcinoma,G1,"Lung, upper lobe",Left,Peripheral,Female,46,White,Not Hispanic or Latino,0
+LNG976,TP53_4,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Squamous cell carcinoma,G3,"Lung, middle lobe",Right,Hilar,Female,39,Asian,Hispanic or Latino,1
+LNG977,TP53_1,EGFR_2,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G2,"Lung, middle lobe",Left,Central,Male,75,White,Not Hispanic or Latino,1
+LNG978,TP53_1,EGFR_4,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3a,Squamous cell carcinoma,G4,Main bronchus,Left,Hilar,Female,41,White,Not Hispanic or Latino,1
+LNG979,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_1,Adenocarcinoma,G1,"Lung, middle lobe",Left,Hilar,Male,78,Asian,Hispanic or Latino,1
+LNG980,TP53_1,EGFR_4,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3a,Adenocarcinoma,G3,"Lung, middle lobe",Right,Peripheral,Female,64,Other,Hispanic or Latino,1
+LNG981,TP53_2,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G1,"Lung, lower lobe",Right,Peripheral,Female,80,Other,Hispanic or Latino,0
+LNG982,TP53_4,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Large cell carcinoma,G2,"Lung, middle lobe",Right,Hilar,Female,54,White,Hispanic or Latino,1
+LNG983,TP53_3,EGFR_1,CDKN2A_2,KRAS G12C_3,EML4-ALK_3b,Squamous cell carcinoma,G4,Main bronchus,Right,Peripheral,Female,45,White,Not Hispanic or Latino,0
+LNG984,TP53_2,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G2,Main bronchus,Right,Central,Female,71,White,Hispanic or Latino,1
+LNG985,TP53_3,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_3b,Squamous cell carcinoma,G4,"Lung, middle lobe",Right,Hilar,Male,36,Other,Hispanic or Latino,1
+LNG986,TP53_2,EGFR_3,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Large cell carcinoma,G4,"Lung, lower lobe",Right,Hilar,Female,79,Black or African American,Not Hispanic or Latino,1
+LNG987,TP53_4,EGFR_5,CDKN2A_1α,KRAS G12C_3,EML4-ALK_5,Squamous cell carcinoma,G4,"Lung, lower lobe",Right,Peripheral,Male,47,Black or African American,Not Hispanic or Latino,1
+LNG988,TP53_4,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G3,Main bronchus,Left,Hilar,Female,74,Other,Not Hispanic or Latino,1
+LNG989,TP53_1,EGFR_5,CDKN2A_2,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G3,"Lung, upper lobe",Right,Central,Female,46,Asian,Hispanic or Latino,1
+LNG990,TP53_4,EGFR_4,CDKN2A_2,KRAS G12C_2,EML4-ALK_2,Small cell lung carcinoma,G4,"Lung, middle lobe",Right,Central,Male,44,Other,Not Hispanic or Latino,0
+LNG991,TP53_5,EGFR_5,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Large cell carcinoma,G4,"Lung, upper lobe",Right,Peripheral,Male,83,Asian,Not Hispanic or Latino,1
+LNG992,TP53_5,EGFR_4,CDKN2A_1β,KRAS G12C_3,EML4-ALK_3b,Large cell carcinoma,G2,"Lung, upper lobe",Right,Central,Male,47,White,Hispanic or Latino,0
+LNG993,TP53_1,EGFR_4,CDKN2A_2,KRAS G12C_3,EML4-ALK_2,Large cell carcinoma,G1,"Lung, middle lobe",Right,Central,Female,69,Asian,Not Hispanic or Latino,1
+LNG994,TP53_3,EGFR_2,CDKN2A_1α,KRAS G12C_3,EML4-ALK_1,Large cell carcinoma,G4,"Lung, lower lobe",Right,Hilar,Female,66,Asian,Not Hispanic or Latino,1
+LNG995,TP53_1,EGFR_1,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3a,Adenocarcinoma,G4,Main bronchus,Right,Central,Male,49,Black or African American,Hispanic or Latino,0
+LNG996,TP53_4,EGFR_5,CDKN2A_1β,KRAS G12C_3,EML4-ALK_1,Squamous cell carcinoma,G2,"Lung, middle lobe",Left,Hilar,Female,62,Asian,Hispanic or Latino,0
+LNG997,TP53_4,EGFR_2,CDKN2A_1β,KRAS G12C_2,EML4-ALK_5,Adenocarcinoma,G4,"Lung, middle lobe",Left,Peripheral,Female,76,Other,Not Hispanic or Latino,1
+LNG998,TP53_5,EGFR_2,CDKN2A_1α,KRAS G12C_2,EML4-ALK_3b,Small cell lung carcinoma,G2,"Lung, upper lobe",Left,Hilar,Male,60,Asian,Hispanic or Latino,0
+LNG999,TP53_5,EGFR_2,CDKN2A_1β,KRAS G12C_3,EML4-ALK_2,Small cell lung carcinoma,G4,"Lung, upper lobe",Right,Central,Female,40,Black or African American,Hispanic or Latino,0
