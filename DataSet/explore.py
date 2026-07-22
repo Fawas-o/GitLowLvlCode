@@ -1,19 +1,24 @@
-#all me, trynig to learn through exp
-import pandas as pd
+import pandas as tb
+from time import sleep
 
-print("----Loading----")
+print("---Loading---")
+
 try:
-    df = pd.read_csv('lung_cancer.csv')
-    print(f"These are the total numbers of rows and columns {df.shape}")
+    table = tb.read_csv('lung_cancer.csv')
+    print(f"---Numbers of rows and columns {table.shape}---")
+    sleep(3)
 
-    print(f"\n----These are the structures of the database----")
-    print()
-    print(f"\n----Dataset values----")
-    df.info()
-    print()
-    print("Short preview of 5 Rows")
-    print(df.head(5))
+    print(f"---These are the Data types {table.info}---")
+    sleep(2)
+
+    print("---A quick preview will be printed soon---")
+    time = int(input("How much rows would you like to get printed: "))
+
+    for i in range (3,0):
+        print(i)
+        sleep(1)
+    
+    print(table.head(time))
 
 except FileNotFoundError:
-    print("File could not be loaded") 
-    
+    print("File couldn't be found")
