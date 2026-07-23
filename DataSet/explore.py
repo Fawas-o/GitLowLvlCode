@@ -8,8 +8,11 @@ print("---Loading---")
 
 try:
     table = pd.read_csv('lung_cancer.csv')
-    print(f"---Numbers of rows and columns {table.shape}---")
+    print("These are the total number of missing values in this table:")
+    print(table.isna().sum())
     sleep(3)
+    print(f"---Numbers of rows and columns {table.shape}---")
+    sleep(2)
 
     print(f"---These are the Data types {table.info}---")
     sleep(2)
@@ -24,12 +27,15 @@ try:
     print(table.head(time))
 
     drop = ""
+    cln_tbl = table.dropna()
+
     while drop != "Y" and drop != "N":
         drop = input("Would you like to drop any rows with missing data? Y/N ").upper()
 
     if drop == "Y":
-        print(table.dropna())
+        print(cln_tbl)
     #axis = 0 means rows, axis = 1 means columns
+
+    # print("The ") something with mean etc
 except FileNotFoundError:
     print("File couldn't be found")
-    
